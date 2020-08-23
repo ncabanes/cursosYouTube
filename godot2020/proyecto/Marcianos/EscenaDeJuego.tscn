@@ -1,10 +1,13 @@
-[gd_scene load_steps=2 format=2]
+[gd_scene load_steps=3 format=2]
 
 [ext_resource path="res://imagenes/nave.png" type="Texture" id=1]
+[ext_resource path="res://Nave.gd" type="Script" id=2]
 
 [node name="EscenaDeJuego" type="Node2D"]
 
 [node name="Nave" type="Area2D" parent="."]
+script = ExtResource( 2 )
+pixelesPorSegundo = 300
 
 [node name="Sprite" type="Sprite" parent="Nave"]
 position = Vector2( 512, 300 )
