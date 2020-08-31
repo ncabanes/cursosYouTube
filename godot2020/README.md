@@ -15,3 +15,5 @@ Contenido disponible hasta ahora:
  - 05 - Compartir datos entre enemigos (05:45) https://youtu.be/A8Mqdo3anPc
  
  - 06 - Disparos (16:26) https://youtu.be/xFlbKEQWhu8
+
+ - 07 - Colisiones (08:20) https://youtu.be/pEfRnAjEf8c
