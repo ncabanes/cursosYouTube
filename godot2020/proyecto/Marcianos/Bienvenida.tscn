@@ -1,0 +1,49 @@
+[gd_scene load_steps=6 format=2]
+
+[ext_resource path="res://tipografias/8bitOperatorPlus-Regular.ttf" type="DynamicFontData" id=1]
+[ext_resource path="res://Bienvenida.gd" type="Script" id=2]
+[ext_resource path="res://imagenes/nave.png" type="Texture" id=3]
+
+[sub_resource type="DynamicFont" id=1]
+size = 80
+font_data = ExtResource( 1 )
+
+[sub_resource type="DynamicFont" id=2]
+size = 32
+font_data = ExtResource( 1 )
+
+[node name="Bienvenida" type="CenterContainer"]
+margin_right = 1024.0
+margin_bottom = 600.0
+script = ExtResource( 2 )
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="VBoxContainer" type="VBoxContainer" parent="."]
+margin_left = 246.0
+margin_top = 193.0
+margin_right = 778.0
+margin_bottom = 407.0
+
+[node name="LabelSpaceHawks" type="Label" parent="VBoxContainer"]
+margin_right = 532.0
+margin_bottom = 112.0
+custom_fonts/font = SubResource( 1 )
+text = "Space Hawks"
+align = 1
+
+[node name="TextureNave" type="TextureRect" parent="VBoxContainer"]
+margin_top = 116.0
+margin_right = 532.0
+margin_bottom = 164.0
+texture = ExtResource( 3 )
+stretch_mode = 4
+
+[node name="LabelComenzarJuego" type="Label" parent="VBoxContainer"]
+margin_top = 168.0
+margin_right = 532.0
+margin_bottom = 214.0
+custom_fonts/font = SubResource( 2 )
+text = "Pulse J para Jugar"
+align = 1

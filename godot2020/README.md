@@ -19,3 +19,5 @@ Contenido disponible hasta ahora:
  - 07 - Colisiones (08:20) https://youtu.be/pEfRnAjEf8c
 
  - 08 - Marcador de puntos (14:54) https://youtu.be/hnbPteo23vE
+ 
+ - 09 - Pantalla de bienvenida (12:00) https://youtu.be/Zf0qz38koTY

@@ -16,7 +16,7 @@ _global_script_class_icons={
 [application]
 
 config/name="Marcianos"
-run/main_scene="res://EscenaDeJuego.tscn"
+run/main_scene="res://Bienvenida.tscn"
 config/icon="res://icon.png"
 
 [rendering]
