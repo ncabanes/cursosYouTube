@@ -21,3 +21,5 @@ Contenido disponible hasta ahora:
  - 08 - Marcador de puntos (14:54) https://youtu.be/hnbPteo23vE
  
  - 09 - Pantalla de bienvenida (12:00) https://youtu.be/Zf0qz38koTY
+
+ - 10 - Sprites animados (10:28) 10 - https://youtu.be/Bh3jRGRld6w
