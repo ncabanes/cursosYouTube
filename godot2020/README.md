@@ -23,3 +23,5 @@ Contenido disponible hasta ahora:
  - 09 - Pantalla de bienvenida (12:00) https://youtu.be/Zf0qz38koTY
 
  - 10 - Sprites animados (10:28) 10 - https://youtu.be/Bh3jRGRld6w
+
+ - 11 - Disparos de enemigos (1) (12:47) https://youtu.be/X-rnBRtbNSI
