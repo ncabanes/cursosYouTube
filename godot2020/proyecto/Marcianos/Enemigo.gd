@@ -14,5 +14,6 @@ func _process(delta):
 		get_parent().get_node("BloqueDeEnemigos").velocidad = velocidadActual
 
 func recibirDisparo(object):
+	get_parent().call("incrementarPuntos")
 	object.queue_free()
 	queue_free()

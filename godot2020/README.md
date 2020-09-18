@@ -17,3 +17,5 @@ Contenido disponible hasta ahora:
  - 06 - Disparos (16:26) https://youtu.be/xFlbKEQWhu8
 
  - 07 - Colisiones (08:20) https://youtu.be/pEfRnAjEf8c
+
+ - 08 - Marcador de puntos (14:54) https://youtu.be/hnbPteo23vE
