@@ -27,3 +27,5 @@ Contenido disponible hasta ahora:
  - 11 - Disparos de enemigos (1) (12:47) https://youtu.be/X-rnBRtbNSI
 
  - 12 - Disparos de enemigos (2) (17:08) https://youtu.be/6dhBJFKljxo
+ 
+ - 13 - Temporizadores (11:02) https://youtu.be/49IOmjiqiC4
