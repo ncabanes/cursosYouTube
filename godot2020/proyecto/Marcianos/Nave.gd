@@ -28,5 +28,5 @@ func disparar():
 		get_parent().add_child(disparo)
 
 func recibirDisparo(object):
-	object.queue_free()
-	get_tree().change_scene("res://Bienvenida.tscn")
+	position.x = 500
+	get_parent().call("perderVida")

@@ -29,3 +29,6 @@ Contenido disponible hasta ahora:
  - 12 - Disparos de enemigos (2) (17:08) https://youtu.be/6dhBJFKljxo
  
  - 13 - Temporizadores (11:02) https://youtu.be/49IOmjiqiC4
+ 
+ - 14 - Varias vidas (11:31) https://youtu.be/SVmZHQaxqy8
+ 
