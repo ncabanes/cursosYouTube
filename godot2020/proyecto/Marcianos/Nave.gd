@@ -7,7 +7,7 @@ var tiempoHastaDisparo = 2.0
 var tiempoPorCadaDisparo = 2.0
 
 func _ready():
-	pass
+	connect("area_entered", self, "recibirDisparo")
 
 func _process(delta):
 	tiempoHastaDisparo += delta
@@ -26,3 +26,7 @@ func disparar():
 		var disparo = DISPARO.instance()
 		disparo.position = position - Vector2(0, 40)
 		get_parent().add_child(disparo)
+
+func recibirDisparo(object):
+	object.queue_free()
+	get_tree().change_scene("res://Bienvenida.tscn")

@@ -25,3 +25,5 @@ Contenido disponible hasta ahora:
  - 10 - Sprites animados (10:28) 10 - https://youtu.be/Bh3jRGRld6w
 
  - 11 - Disparos de enemigos (1) (12:47) https://youtu.be/X-rnBRtbNSI
+
+ - 12 - Disparos de enemigos (2) (17:08) https://youtu.be/6dhBJFKljxo
