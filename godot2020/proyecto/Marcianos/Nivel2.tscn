@@ -1,0 +1,53 @@
+[gd_scene load_steps=8 format=2]
+
+[ext_resource path="res://BloqueDeEnemigos.gd" type="Script" id=1]
+[ext_resource path="res://Nave.gd" type="Script" id=2]
+[ext_resource path="res://Juego.gd" type="Script" id=3]
+[ext_resource path="res://imagenes/nave.png" type="Texture" id=4]
+[ext_resource path="res://InterfazDeUsuario.tscn" type="PackedScene" id=5]
+[ext_resource path="res://Enemigo2.tscn" type="PackedScene" id=6]
+
+[sub_resource type="RectangleShape2D" id=1]
+extents = Vector2( 46.087, 22.2448 )
+
+[node name="Nivel2" type="Node2D"]
+script = ExtResource( 3 )
+
+[node name="Nave" type="Area2D" parent="."]
+position = Vector2( 518.727, 523.678 )
+script = ExtResource( 2 )
+pixelesPorSegundo = 300
+
+[node name="Sprite" type="Sprite" parent="Nave"]
+texture = ExtResource( 4 )
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Nave"]
+shape = SubResource( 1 )
+
+[node name="BloqueDeEnemigos" type="Node2D" parent="."]
+script = ExtResource( 1 )
+
+[node name="InterfazDeUsuario" parent="." instance=ExtResource( 5 )]
+margin_right = 48.0
+margin_bottom = 32.0
+
+[node name="Enemigo" parent="." instance=ExtResource( 6 )]
+position = Vector2( 201.827, 82.8213 )
+
+[node name="Enemigo2" parent="." instance=ExtResource( 6 )]
+position = Vector2( 351.506, 85.344 )
+
+[node name="Enemigo3" parent="." instance=ExtResource( 6 )]
+position = Vector2( 511.277, 91.2302 )
+
+[node name="Enemigo4" parent="." instance=ExtResource( 6 )]
+position = Vector2( 671.888, 89.5484 )
+
+[node name="Enemigo5" parent="." instance=ExtResource( 6 )]
+position = Vector2( 269.939, 179.524 )
+
+[node name="Enemigo6" parent="." instance=ExtResource( 6 )]
+position = Vector2( 426.346, 184.57 )
+
+[node name="Enemigo7" parent="." instance=ExtResource( 6 )]
+position = Vector2( 584.435, 185.411 )

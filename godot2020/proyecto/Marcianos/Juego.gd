@@ -2,7 +2,7 @@ extends Node2D
 
 const DISPARO = preload("res://DisparoDeEnemigo.tscn")
 
-var puntos = 0
+#var puntos = 0
 var vidas = 3
 var listaDisparos = []
 
@@ -25,12 +25,17 @@ func _ready():
 	pass # Replace with function body.
 
 func _process(delta):
-	pass
+	if Input.is_key_pressed(KEY_N):
+		if get_tree().get_current_scene().name == "Nivel1":
+			get_tree().change_scene("res://Nivel2.tscn")
+		else:
+			get_tree().change_scene("res://Nivel1.tscn")
 
 func incrementarPuntos():
-	puntos += 10
+	Compartido.puntos += 10
 	#get_node("InterfazDeUsuario/VBoxContainer/LabelPuntos").text = "Puntos: " + str(puntos)
-	$InterfazDeUsuario/VBoxContainer/LabelPuntos.text = "Puntos: " + str(puntos)
+	$InterfazDeUsuario/VBoxContainer/LabelPuntos.text = \
+		"Puntos: " + str(Compartido.puntos)
 
 func prepararTemporizadorDeDisparo():
 	return tiempoMinPorDisparo + \
