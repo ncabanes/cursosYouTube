@@ -20,4 +20,9 @@ public class Nave : MonoBehaviour
             horizontal * velocidad * Time.deltaTime, 
             0, 0);
     }
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        Debug.Log("Pum");
+    }
 }
