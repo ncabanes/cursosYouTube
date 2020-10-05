@@ -15,8 +15,6 @@ public class Nave : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        // Debug.Log(Time.deltaTime + "seg, " +
-        //    (1.0f / Time.deltaTime) + "FPS");
         float horizontal = Input.GetAxis("Horizontal");
         transform.Translate(
             horizontal * velocidad * Time.deltaTime, 
