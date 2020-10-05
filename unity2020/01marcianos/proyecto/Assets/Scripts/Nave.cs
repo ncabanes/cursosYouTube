@@ -6,7 +6,7 @@ public class Nave : MonoBehaviour
 {
     [SerializeField] float velocidad = 9;
     private float velocidadDisparo = 2;
-    [SerializeField] Transform prefabDisparo;
+    [SerializeField] Transform prefabDisparo = null;
 
     // Start is called before the first frame update
     void Start()

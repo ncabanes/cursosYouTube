@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Disparo : MonoBehaviour
 {
-    [SerializeField] Transform prefabExplosion;
+    [SerializeField] Transform prefabExplosion = null;
 
     // Start is called before the first frame update
     void Start()
