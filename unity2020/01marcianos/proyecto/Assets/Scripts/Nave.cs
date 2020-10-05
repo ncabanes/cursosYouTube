@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Nave : MonoBehaviour
 {
-    private float velocidad = 2;
+    [SerializeField] float velocidad = 9;
 
     // Start is called before the first frame update
     void Start()
