@@ -7,6 +7,7 @@ public class Nave : MonoBehaviour
     [SerializeField] float velocidad = 9;
     private float velocidadDisparo = 2;
     [SerializeField] Transform prefabDisparo = null;
+    [SerializeField] UnityEngine.UI.Text textoPuntos;
 
     // Start is called before the first frame update
     void Start()
@@ -24,6 +25,7 @@ public class Nave : MonoBehaviour
 
         if (Input.GetButtonDown("Fire1"))
         {
+            textoPuntos.text = "Has disparado";
             GetComponent<AudioSource>().Play();
             Transform disparo = Instantiate(prefabDisparo,
                 transform.position,
