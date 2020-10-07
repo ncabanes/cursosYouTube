@@ -61,3 +61,8 @@ Contenido disponible hasta ahora:
 
  - 026 - Moviendo la cámara (03:15) https://youtu.be/UQ2-Sxq6J6s
 
+ - 027 - Un personaje que se mueve... mal (09:40) https://youtu.be/LLRCQq2Dvoc
+ 
+ - 028 - La cámara sigue al personaje (01:40) https://youtu.be/ynPOFUxyJvs
+
+ - 029 - Un sistema de movimiento alternativo (06:49) https://youtu.be/ZUeScCgxTXw
