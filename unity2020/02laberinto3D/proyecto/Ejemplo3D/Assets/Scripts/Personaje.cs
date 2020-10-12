@@ -25,4 +25,9 @@ public class Personaje : MonoBehaviour
         transform.Rotate(Vector3.up, rotacion, Space.Self);
         transform.position += transform.forward * avance;
     }
+
+    public void PerderVida()
+    {
+        Debug.Log("He perdido una vida");
+    }
 }

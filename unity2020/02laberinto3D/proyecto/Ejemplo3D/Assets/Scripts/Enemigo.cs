@@ -38,6 +38,9 @@ public class Enemigo : MonoBehaviour
 
     private void OnCollisionEnter(Collision collision)
     {
-        Debug.Log("Tocado");
+        // Debug.Log("Tocado");
+        //collision.gameObject.GetComponent<Personaje>().PerderVida();
+
+        collision.gameObject.SendMessage("PerderVida");
     }
 }
