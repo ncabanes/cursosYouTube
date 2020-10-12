@@ -35,4 +35,9 @@ public class Enemigo : MonoBehaviour
 
         }
     }
+
+    private void OnCollisionEnter(Collision collision)
+    {
+        Debug.Log("Tocado");
+    }
 }
