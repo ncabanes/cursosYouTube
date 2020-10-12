@@ -66,3 +66,14 @@ Contenido disponible hasta ahora:
  - 028 - La cámara sigue al personaje (01:40) https://youtu.be/ynPOFUxyJvs
 
  - 029 - Un sistema de movimiento alternativo (06:49) https://youtu.be/ZUeScCgxTXw
+
+ - 030 - Enemigos que se mueven: "waypoints" (13:09) https://youtu.be/Sj467vIvwmE
+
+ - 031 - Colisión con paredes y enemigo (06:12) https://youtu.be/RRvLtLcdaPE
+
+ - 032 - Paso de mensajes (04:46) https://youtu.be/-F1CKVSfHB4
+
+
+## Bloque 3: Profundizando en 2D: un "plataformas"
+
+ - 033 - Plataformas: diseño de un nivel (09:27) https://youtu.be/mhMU3wi9L9s
