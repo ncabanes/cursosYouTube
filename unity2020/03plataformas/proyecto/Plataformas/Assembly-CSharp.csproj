@@ -57,6 +57,8 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\Player.cs" />
     <Compile Include="Assets\Scripts\ColisionInferior.cs" />
+    <Compile Include="Assets\Scripts\GameController.cs" />
+    <Compile Include="Assets\Scripts\Diamante.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
