@@ -6,14 +6,12 @@ using UnityEngine.SceneManagement;
 public class GameController : MonoBehaviour
 {
     private int itemsRestantes;
-    private int puntos;
-    private int vidas;
+    private static int puntos = 0;
+    private static int vidas = 3;
 
     // Start is called before the first frame update
     void Start()
     {
-        puntos = 0;
-        vidas = 3;
         itemsRestantes = FindObjectsOfType<Diamante>().Length;
     }
 
