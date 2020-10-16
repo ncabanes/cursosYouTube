@@ -6,13 +6,18 @@ using UnityEngine.SceneManagement;
 public class GameController : MonoBehaviour
 {
     private int itemsRestantes;
-    private static int puntos = 0;
-    private static int vidas = 3;
+    private int puntos;
+    private int vidas;
+    private int nivelActual;
+    
 
     // Start is called before the first frame update
     void Start()
     {
         itemsRestantes = FindObjectsOfType<Diamante>().Length;
+        puntos = FindObjectOfType<GameStatus>().puntos;
+        vidas = FindObjectOfType<GameStatus>().vidas;
+        nivelActual = FindObjectOfType<GameStatus>().nivelActual;
     }
 
     // Update is called once per frame
@@ -25,6 +30,7 @@ public class GameController : MonoBehaviour
     public void AnotarItemRecogido()
     {
         puntos += 10;
+        FindObjectOfType<GameStatus>().puntos = puntos;
         Debug.Log("Puntos: " + puntos);
 
         itemsRestantes--;
@@ -36,6 +42,7 @@ public class GameController : MonoBehaviour
     public void PerderVida()
     {
         vidas--;
+        FindObjectOfType<GameStatus>().vidas = vidas;
         FindObjectOfType<Player>().SendMessage("Recolocar");
         Debug.Log("Vidas: " + vidas);
         if (vidas <= 0)
@@ -48,6 +55,10 @@ public class GameController : MonoBehaviour
 
     public void AvanzarNivel()
     {
-        SceneManager.LoadScene("Nivel2");
+        nivelActual++;
+        if (nivelActual > FindObjectOfType<GameStatus>().nivelMasAlto)
+            nivelActual = 1;
+        FindObjectOfType<GameStatus>().nivelActual = nivelActual;
+        SceneManager.LoadScene("Nivel"+nivelActual);
     }
 }

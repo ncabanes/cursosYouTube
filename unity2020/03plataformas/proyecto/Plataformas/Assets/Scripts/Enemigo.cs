@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Enemigo : MonoBehaviour
 {
-    [SerializeField] List<Transform> wayPoints;
+    [SerializeField] List<Transform> wayPoints = null;
     float velocidad = 2;
     float distanciaCambio = 0.2f;
     byte siguientePosicion = 0;
