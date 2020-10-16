@@ -7,7 +7,7 @@ public class GameStatus : MonoBehaviour
     public int puntos = 0;
     public int vidas = 3;
     public int nivelActual = 1;
-    public int nivelMasAlto = 2;
+    public int nivelMasAlto = 3;
 
     private void Awake()
     {
