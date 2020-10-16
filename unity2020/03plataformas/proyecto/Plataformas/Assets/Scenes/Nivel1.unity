@@ -2691,6 +2691,7 @@ GameObject:
   - component: {fileID: 992478425}
   - component: {fileID: 992478427}
   - component: {fileID: 992478426}
+  - component: {fileID: 992478428}
   m_Layer: 0
   m_Name: Player
   m_TagString: Untagged
@@ -2823,6 +2824,25 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 4
+--- !u!95 &992478428
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 992478422}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 1abbef742987f8a44bc86449be9dbb74, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &1019772235
 GameObject:
   m_ObjectHideFlags: 0
@@ -4914,10 +4934,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: -5765738392251157413, guid: 913ea334f12039e47a9e5422772c0d93, type: 3}
-      propertyPath: wayPoints.Array.size
-      value: 2
-      objectReference: {fileID: 0}
     - target: {fileID: -5765738392251157413, guid: 913ea334f12039e47a9e5422772c0d93, type: 3}
       propertyPath: wayPoints.Array.data[0]
       value: 

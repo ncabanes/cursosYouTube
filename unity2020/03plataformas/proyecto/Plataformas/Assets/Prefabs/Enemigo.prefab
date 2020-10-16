@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 2552788098223821671}
   - component: {fileID: 7077966604741526135}
   - component: {fileID: -5765738392251157413}
+  - component: {fileID: 218956150117559723}
   m_Layer: 0
   m_Name: Enemigo
   m_TagString: Untagged
@@ -122,3 +123,25 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a84c76e5fa93260419c6410e51f2bafe, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  wayPoints:
+  - {fileID: 0}
+  - {fileID: 0}
+--- !u!95 &218956150117559723
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7448043678699964012}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: dcc4e358bc7b1b043a33dfd5be7b200e, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0

@@ -7,6 +7,7 @@ public class Player : MonoBehaviour
     float xInicial, yInicial;
     float velocidad = 5f;
     float alturaPersonaje;
+    Animator anim;
 
     // Start is called before the first frame update
     void Start()
@@ -14,12 +15,15 @@ public class Player : MonoBehaviour
         xInicial = transform.position.x;
         yInicial = transform.position.y;
         alturaPersonaje = GetComponent<Collider2D>().bounds.size.y;
+        anim = gameObject.GetComponent<Animator>();
     }
 
     // Update is called once per frame
     void Update()
     {
         float horizontal = Input.GetAxis("Horizontal");
+        if ((horizontal > 0.1f) || (horizontal < -0.1f))
+            anim.Play("PersonajeCorriendo");
         transform.Translate(
             horizontal * velocidad * Time.deltaTime,
             0, 0);
