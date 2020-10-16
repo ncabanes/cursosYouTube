@@ -9,6 +9,7 @@ public class GameController : MonoBehaviour
     private int puntos;
     private int vidas;
     private int nivelActual;
+    [SerializeField] UnityEngine.UI.Text textoGameOver;
     
 
     // Start is called before the first frame update
@@ -18,6 +19,7 @@ public class GameController : MonoBehaviour
         puntos = FindObjectOfType<GameStatus>().puntos;
         vidas = FindObjectOfType<GameStatus>().vidas;
         nivelActual = FindObjectOfType<GameStatus>().nivelActual;
+        textoGameOver.enabled = false;
     }
 
     // Update is called once per frame
@@ -47,10 +49,17 @@ public class GameController : MonoBehaviour
         Debug.Log("Vidas: " + vidas);
         if (vidas <= 0)
         {
-            // TO DO: Ir al menú principal
-            Debug.Log("Partida terminada");
-            Application.Quit();
+            StartCoroutine(TerminarPartida());
         }
+    }
+
+    private IEnumerator TerminarPartida()
+    {
+        textoGameOver.enabled = true;
+        Time.timeScale = 0.1f;
+        yield return new WaitForSecondsRealtime(3);
+        Time.timeScale = 1;
+        SceneManager.LoadScene("Menu");
     }
 
     public void AvanzarNivel()

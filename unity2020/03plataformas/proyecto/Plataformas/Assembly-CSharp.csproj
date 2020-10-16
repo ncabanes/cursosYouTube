@@ -58,9 +58,10 @@
     <Compile Include="Assets\Scripts\Player.cs" />
     <Compile Include="Assets\Scripts\Diamante.cs" />
     <Compile Include="Assets\Scripts\Enemigo.cs" />
+    <Compile Include="Assets\Scripts\GameStatus.cs" />
     <Compile Include="Assets\Scripts\ColisionInferior.cs" />
     <Compile Include="Assets\Scripts\GameController.cs" />
-    <Compile Include="Assets\Scripts\GameStatus.cs" />
+    <Compile Include="Assets\Scripts\BotonJugar.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
