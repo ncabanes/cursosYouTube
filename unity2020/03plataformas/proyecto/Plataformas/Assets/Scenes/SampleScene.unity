@@ -134,6 +134,7 @@ GameObject:
   - component: {fileID: 55548301}
   - component: {fileID: 55548302}
   - component: {fileID: 55548303}
+  - component: {fileID: 55548304}
   m_Layer: 0
   m_Name: shortplatform (3)
   m_TagString: Untagged
@@ -232,6 +233,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.63, y: 0.21}
   m_EdgeRadius: 0
+--- !u!50 &55548304
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 55548300}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 6200000, guid: a168caa9d47380e439d713a32a36a98f, type: 2}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &106304166
 GameObject:
   m_ObjectHideFlags: 0
@@ -243,6 +265,7 @@ GameObject:
   - component: {fileID: 106304167}
   - component: {fileID: 106304168}
   - component: {fileID: 106304169}
+  - component: {fileID: 106304170}
   m_Layer: 0
   m_Name: shortplatform (8)
   m_TagString: Untagged
@@ -341,6 +364,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.63, y: 0.21}
   m_EdgeRadius: 0
+--- !u!50 &106304170
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 106304166}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 6200000, guid: a168caa9d47380e439d713a32a36a98f, type: 2}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &209082546
 GameObject:
   m_ObjectHideFlags: 0
@@ -352,6 +396,7 @@ GameObject:
   - component: {fileID: 209082547}
   - component: {fileID: 209082548}
   - component: {fileID: 209082549}
+  - component: {fileID: 209082550}
   m_Layer: 0
   m_Name: shortplatform (15)
   m_TagString: Untagged
@@ -450,6 +495,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.63, y: 0.21}
   m_EdgeRadius: 0
+--- !u!50 &209082550
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 209082546}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 6200000, guid: a168caa9d47380e439d713a32a36a98f, type: 2}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &383296948
 GameObject:
   m_ObjectHideFlags: 0
@@ -461,6 +527,7 @@ GameObject:
   - component: {fileID: 383296949}
   - component: {fileID: 383296950}
   - component: {fileID: 383296951}
+  - component: {fileID: 383296952}
   m_Layer: 0
   m_Name: shortplatform (9)
   m_TagString: Untagged
@@ -559,6 +626,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.63, y: 0.21}
   m_EdgeRadius: 0
+--- !u!50 &383296952
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 383296948}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 6200000, guid: a168caa9d47380e439d713a32a36a98f, type: 2}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &435052253
 GameObject:
   m_ObjectHideFlags: 0
@@ -570,6 +658,7 @@ GameObject:
   - component: {fileID: 435052254}
   - component: {fileID: 435052255}
   - component: {fileID: 435052256}
+  - component: {fileID: 435052257}
   m_Layer: 0
   m_Name: shortplatform (14)
   m_TagString: Untagged
@@ -668,6 +757,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.63, y: 0.21}
   m_EdgeRadius: 0
+--- !u!50 &435052257
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 435052253}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 6200000, guid: a168caa9d47380e439d713a32a36a98f, type: 2}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &470256074
 GameObject:
   m_ObjectHideFlags: 0
@@ -679,6 +789,7 @@ GameObject:
   - component: {fileID: 470256075}
   - component: {fileID: 470256076}
   - component: {fileID: 470256077}
+  - component: {fileID: 470256078}
   m_Layer: 0
   m_Name: shortplatform (11)
   m_TagString: Untagged
@@ -777,6 +888,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.63, y: 0.21}
   m_EdgeRadius: 0
+--- !u!50 &470256078
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 470256074}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 6200000, guid: a168caa9d47380e439d713a32a36a98f, type: 2}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0
@@ -923,6 +1055,7 @@ GameObject:
   - component: {fileID: 626443559}
   - component: {fileID: 626443560}
   - component: {fileID: 626443561}
+  - component: {fileID: 626443562}
   m_Layer: 0
   m_Name: shortplatform
   m_TagString: Untagged
@@ -1021,6 +1154,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.63, y: 0.21}
   m_EdgeRadius: 0
+--- !u!50 &626443562
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 626443558}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 6200000, guid: a168caa9d47380e439d713a32a36a98f, type: 2}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &662518938
 GameObject:
   m_ObjectHideFlags: 0
@@ -1114,6 +1268,7 @@ GameObject:
   - component: {fileID: 696155961}
   - component: {fileID: 696155962}
   - component: {fileID: 696155963}
+  - component: {fileID: 696155964}
   m_Layer: 0
   m_Name: longplatform (1)
   m_TagString: Untagged
@@ -1212,6 +1367,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 2.97, y: 0.21}
   m_EdgeRadius: 0
+--- !u!50 &696155964
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 696155960}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 6200000, guid: a168caa9d47380e439d713a32a36a98f, type: 2}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &704455663
 GameObject:
   m_ObjectHideFlags: 0
@@ -1223,6 +1399,7 @@ GameObject:
   - component: {fileID: 704455664}
   - component: {fileID: 704455665}
   - component: {fileID: 704455666}
+  - component: {fileID: 704455667}
   m_Layer: 0
   m_Name: shortplatform (6)
   m_TagString: Untagged
@@ -1321,6 +1498,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.63, y: 0.21}
   m_EdgeRadius: 0
+--- !u!50 &704455667
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 704455663}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 6200000, guid: a168caa9d47380e439d713a32a36a98f, type: 2}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &820414112
 GameObject:
   m_ObjectHideFlags: 0
@@ -1332,6 +1530,7 @@ GameObject:
   - component: {fileID: 820414113}
   - component: {fileID: 820414114}
   - component: {fileID: 820414115}
+  - component: {fileID: 820414116}
   m_Layer: 0
   m_Name: shortplatform (5)
   m_TagString: Untagged
@@ -1430,6 +1629,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.63, y: 0.21}
   m_EdgeRadius: 0
+--- !u!50 &820414116
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 820414112}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 6200000, guid: a168caa9d47380e439d713a32a36a98f, type: 2}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &950672439
 GameObject:
   m_ObjectHideFlags: 0
@@ -1441,6 +1661,7 @@ GameObject:
   - component: {fileID: 950672440}
   - component: {fileID: 950672441}
   - component: {fileID: 950672442}
+  - component: {fileID: 950672443}
   m_Layer: 0
   m_Name: longplatform (2)
   m_TagString: Untagged
@@ -1539,6 +1760,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 2.97, y: 0.21}
   m_EdgeRadius: 0
+--- !u!50 &950672443
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 950672439}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 6200000, guid: a168caa9d47380e439d713a32a36a98f, type: 2}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &972189267
 GameObject:
   m_ObjectHideFlags: 0
@@ -1550,6 +1792,7 @@ GameObject:
   - component: {fileID: 972189268}
   - component: {fileID: 972189269}
   - component: {fileID: 972189270}
+  - component: {fileID: 972189271}
   m_Layer: 0
   m_Name: shortplatform (1)
   m_TagString: Untagged
@@ -1648,6 +1891,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.63, y: 0.21}
   m_EdgeRadius: 0
+--- !u!50 &972189271
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 972189267}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 6200000, guid: a168caa9d47380e439d713a32a36a98f, type: 2}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &992478422
 GameObject:
   m_ObjectHideFlags: 0
@@ -1788,11 +2052,11 @@ Rigidbody2D:
   m_LinearDrag: 0
   m_AngularDrag: 0.05
   m_GravityScale: 1
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 6200000, guid: a168caa9d47380e439d713a32a36a98f, type: 2}
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
-  m_Constraints: 0
+  m_Constraints: 4
 --- !u!1 &1071114070
 GameObject:
   m_ObjectHideFlags: 0
@@ -1804,6 +2068,7 @@ GameObject:
   - component: {fileID: 1071114071}
   - component: {fileID: 1071114072}
   - component: {fileID: 1071114073}
+  - component: {fileID: 1071114074}
   m_Layer: 0
   m_Name: longplatform (5)
   m_TagString: Untagged
@@ -1902,6 +2167,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 2.97, y: 0.21}
   m_EdgeRadius: 0
+--- !u!50 &1071114074
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1071114070}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 6200000, guid: a168caa9d47380e439d713a32a36a98f, type: 2}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &1292075622
 GameObject:
   m_ObjectHideFlags: 0
@@ -1913,6 +2199,7 @@ GameObject:
   - component: {fileID: 1292075623}
   - component: {fileID: 1292075624}
   - component: {fileID: 1292075625}
+  - component: {fileID: 1292075626}
   m_Layer: 0
   m_Name: shortplatform (7)
   m_TagString: Untagged
@@ -2011,6 +2298,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.63, y: 0.21}
   m_EdgeRadius: 0
+--- !u!50 &1292075626
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1292075622}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 6200000, guid: a168caa9d47380e439d713a32a36a98f, type: 2}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &1332324074
 GameObject:
   m_ObjectHideFlags: 0
@@ -2022,6 +2330,7 @@ GameObject:
   - component: {fileID: 1332324075}
   - component: {fileID: 1332324076}
   - component: {fileID: 1332324077}
+  - component: {fileID: 1332324078}
   m_Layer: 0
   m_Name: shortplatform (13)
   m_TagString: Untagged
@@ -2120,6 +2429,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.63, y: 0.21}
   m_EdgeRadius: 0
+--- !u!50 &1332324078
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1332324074}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 6200000, guid: a168caa9d47380e439d713a32a36a98f, type: 2}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &1342844075
 GameObject:
   m_ObjectHideFlags: 0
@@ -2131,6 +2461,7 @@ GameObject:
   - component: {fileID: 1342844076}
   - component: {fileID: 1342844077}
   - component: {fileID: 1342844078}
+  - component: {fileID: 1342844079}
   m_Layer: 0
   m_Name: longplatform
   m_TagString: Untagged
@@ -2229,6 +2560,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 2.97, y: 0.21}
   m_EdgeRadius: 0
+--- !u!50 &1342844079
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1342844075}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 6200000, guid: a168caa9d47380e439d713a32a36a98f, type: 2}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &1458206598
 GameObject:
   m_ObjectHideFlags: 0
@@ -2240,6 +2592,7 @@ GameObject:
   - component: {fileID: 1458206599}
   - component: {fileID: 1458206600}
   - component: {fileID: 1458206601}
+  - component: {fileID: 1458206602}
   m_Layer: 0
   m_Name: shortplatform (2)
   m_TagString: Untagged
@@ -2338,6 +2691,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.63, y: 0.21}
   m_EdgeRadius: 0
+--- !u!50 &1458206602
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1458206598}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 6200000, guid: a168caa9d47380e439d713a32a36a98f, type: 2}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &1604684357
 GameObject:
   m_ObjectHideFlags: 0
@@ -2349,6 +2723,7 @@ GameObject:
   - component: {fileID: 1604684358}
   - component: {fileID: 1604684359}
   - component: {fileID: 1604684360}
+  - component: {fileID: 1604684361}
   m_Layer: 0
   m_Name: shortplatform (4)
   m_TagString: Untagged
@@ -2447,6 +2822,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.63, y: 0.21}
   m_EdgeRadius: 0
+--- !u!50 &1604684361
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1604684357}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 6200000, guid: a168caa9d47380e439d713a32a36a98f, type: 2}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &1756195737
 GameObject:
   m_ObjectHideFlags: 0
@@ -2458,6 +2854,7 @@ GameObject:
   - component: {fileID: 1756195738}
   - component: {fileID: 1756195739}
   - component: {fileID: 1756195740}
+  - component: {fileID: 1756195741}
   m_Layer: 0
   m_Name: longplatform (3)
   m_TagString: Untagged
@@ -2556,6 +2953,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 2.97, y: 0.21}
   m_EdgeRadius: 0
+--- !u!50 &1756195741
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1756195737}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 6200000, guid: a168caa9d47380e439d713a32a36a98f, type: 2}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &1780813728
 GameObject:
   m_ObjectHideFlags: 0
@@ -2567,6 +2985,7 @@ GameObject:
   - component: {fileID: 1780813729}
   - component: {fileID: 1780813730}
   - component: {fileID: 1780813731}
+  - component: {fileID: 1780813732}
   m_Layer: 0
   m_Name: shortplatform (12)
   m_TagString: Untagged
@@ -2665,6 +3084,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.63, y: 0.21}
   m_EdgeRadius: 0
+--- !u!50 &1780813732
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1780813728}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 6200000, guid: a168caa9d47380e439d713a32a36a98f, type: 2}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &1793418287
 GameObject:
   m_ObjectHideFlags: 0
@@ -2676,6 +3116,7 @@ GameObject:
   - component: {fileID: 1793418288}
   - component: {fileID: 1793418289}
   - component: {fileID: 1793418290}
+  - component: {fileID: 1793418291}
   m_Layer: 0
   m_Name: longplatform (4)
   m_TagString: Untagged
@@ -2774,6 +3215,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 2.97, y: 0.21}
   m_EdgeRadius: 0
+--- !u!50 &1793418291
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1793418287}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 6200000, guid: a168caa9d47380e439d713a32a36a98f, type: 2}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2073351381
 GameObject:
   m_ObjectHideFlags: 0
@@ -2785,6 +3247,7 @@ GameObject:
   - component: {fileID: 2073351382}
   - component: {fileID: 2073351383}
   - component: {fileID: 2073351384}
+  - component: {fileID: 2073351385}
   m_Layer: 0
   m_Name: shortplatform (10)
   m_TagString: Untagged
@@ -2883,3 +3346,24 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.63, y: 0.21}
   m_EdgeRadius: 0
+--- !u!50 &2073351385
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2073351381}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 6200000, guid: a168caa9d47380e439d713a32a36a98f, type: 2}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0

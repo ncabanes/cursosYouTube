@@ -23,7 +23,7 @@ public class Player : MonoBehaviour
         float salto = Input.GetAxis("Jump");
         if (salto > 0)
         {
-            Vector3 fuerzaSalto = new Vector3(0, 10, 0);
+            Vector3 fuerzaSalto = new Vector3(0, 10 , 0);
             GetComponent<Rigidbody2D>().AddForce(fuerzaSalto);
         }
     }
