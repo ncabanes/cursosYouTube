@@ -77,3 +77,19 @@ Contenido disponible hasta ahora:
 ## Bloque 3: Profundizando en 2D: un "plataformas"
 
  - 033 - Plataformas: diseño de un nivel (09:27) https://youtu.be/mhMU3wi9L9s
+
+ -  034 - Saltos. Cámara que sigue al jugador (03:40) https://youtu.be/7MXgxvaKXEQ
+
+ -  035 - Fricción entre materiales 2D (03:25) https://youtu.be/5fJgGmrA6lQ
+
+ -  036 - Caídas al vacío (05:55) https://youtu.be/kahwRfkaGqs
+
+ -  037 - Sin saltos múltiples: raycasting (06:05) https://youtu.be/PowW4yIGFqY
+
+ -  038 - Recoger ítems: un "GameController" (09:19) https://youtu.be/7gH0QqQMwf0
+
+ -  039 - Cinemachine y la matriz de colisiones (08:17) https://youtu.be/_BrvT0raecU
+
+ -  040 - Enemigos y vidas (04:44) https://youtu.be/ai7rEkJU41g
+
+ -  041 - Movimiento de enemigos: Waypoints 2D (06:16) https://youtu.be/DUexmuWX0dQ
