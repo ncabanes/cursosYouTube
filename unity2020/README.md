@@ -93,3 +93,35 @@ Contenido disponible hasta ahora:
  -  040 - Enemigos y vidas (04:44) https://youtu.be/ai7rEkJU41g
 
  -  041 - Movimiento de enemigos: Waypoints 2D (06:16) https://youtu.be/DUexmuWX0dQ
+
+ - 042 - Dos niveles consecutivos (08:58) https://youtu.be/1qxl63HL7JM
+
+ - 043 - Conservando puntos: el patrón Singleton (13:08) https://youtu.be/JZgo4aXU79E
+
+ - 044 - Menú y pausa al volver (16:20) https://youtu.be/U6HPTQDLsa0
+
+ - 045 - Spritesheets (03:41) https://youtu.be/ha0xp4usBZ4
+
+ - 046 - Distintas animaciones para un personaje (pronto)
+
+ - 047 - Mapas de tiles (pronto)
+
+ - 048 - Sonidos en objetos que se destruyen (pronto)
+
+
+## Bloque 4: Un juego 2D en primera persona
+
+ - 049 - Un juego en primera persona: el "FPS controller" (pronto)
+ - 050 - Assets predefinidos para crear un nivel (pronto)
+ - 051 - Texturas para los materiales (pronto)
+ - 052 - Fricción en materiales 3D (pronto)
+ - 053 - Creando un terreno irregular (pronto)
+ - 054 - Árboles y hierba (pronto)
+ - 055 - Añadiendo un arma (pronto)
+ - 056 - Enemigos móviles que se pueden destruir (pronto)
+ - 057 - Iluminación (pronto)
+ - 058 - Búsqueda de caminos (pronto)
+ - 059 - FixedUpdate (pronto)
+ - 060 - Textos más vistosos: Text Mesh Pro (pronto)
+ - 061 - Guardando la configuración (pronto)
+
