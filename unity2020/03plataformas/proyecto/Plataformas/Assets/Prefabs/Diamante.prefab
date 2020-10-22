@@ -123,6 +123,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 08a43d65d262ef34c9df4b7d36c090b7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  sonido: {fileID: 8300000, guid: 1590064119ac75f42ab07b05ada5a9e2, type: 3}
 --- !u!95 &126981027369263246
 Animator:
   serializedVersion: 3

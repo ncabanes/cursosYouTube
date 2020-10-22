@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class Diamante : MonoBehaviour
 {
+    [SerializeField] AudioClip sonido;
     // Start is called before the first frame update
     void Start()
     {
@@ -19,6 +20,7 @@ public class Diamante : MonoBehaviour
     private void OnTriggerEnter2D(Collider2D collision)
     {
         FindObjectOfType<GameController>().SendMessage("AnotarItemRecogido");
+        AudioSource.PlayClipAtPoint(sonido, Camera.main.transform.position);
         Destroy(gameObject);
     }
 }
