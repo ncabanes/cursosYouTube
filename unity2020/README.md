@@ -78,21 +78,21 @@ Contenido disponible hasta ahora:
 
  - 033 - Plataformas: diseño de un nivel (09:27) https://youtu.be/mhMU3wi9L9s
 
- -  034 - Saltos. Cámara que sigue al jugador (03:40) https://youtu.be/7MXgxvaKXEQ
+ - 034 - Saltos. Cámara que sigue al jugador (03:40) https://youtu.be/7MXgxvaKXEQ
 
- -  035 - Fricción entre materiales 2D (03:25) https://youtu.be/5fJgGmrA6lQ
+ - 035 - Fricción entre materiales 2D (03:25) https://youtu.be/5fJgGmrA6lQ
 
- -  036 - Caídas al vacío (05:55) https://youtu.be/kahwRfkaGqs
+ - 036 - Caídas al vacío (05:55) https://youtu.be/kahwRfkaGqs
 
- -  037 - Sin saltos múltiples: raycasting (06:05) https://youtu.be/PowW4yIGFqY
+ - 037 - Sin saltos múltiples: raycasting (06:05) https://youtu.be/PowW4yIGFqY
 
- -  038 - Recoger ítems: un "GameController" (09:19) https://youtu.be/7gH0QqQMwf0
+ - 038 - Recoger ítems: un "GameController" (09:19) https://youtu.be/7gH0QqQMwf0
 
- -  039 - Cinemachine y la matriz de colisiones (08:17) https://youtu.be/_BrvT0raecU
+ - 039 - Cinemachine y la matriz de colisiones (08:17) https://youtu.be/_BrvT0raecU
 
- -  040 - Enemigos y vidas (04:44) https://youtu.be/ai7rEkJU41g
+ - 040 - Enemigos y vidas (04:44) https://youtu.be/ai7rEkJU41g
 
- -  041 - Movimiento de enemigos: Waypoints 2D (06:16) https://youtu.be/DUexmuWX0dQ
+ - 041 - Movimiento de enemigos: Waypoints 2D (06:16) https://youtu.be/DUexmuWX0dQ
 
  - 042 - Dos niveles consecutivos (08:58) https://youtu.be/1qxl63HL7JM
 
@@ -102,20 +102,26 @@ Contenido disponible hasta ahora:
 
  - 045 - Spritesheets (03:41) https://youtu.be/ha0xp4usBZ4
 
- - 046 - Distintas animaciones para un personaje (pronto)
+ - 046 - Distintas animaciones para un personaje (12:00) https://youtu.be/YeQpIUqafVk
 
- - 047 - Mapas de tiles (pronto)
+ - 047 - Mapas de tiles (10:02) https://youtu.be/F7rZbaSUHCw
 
- - 048 - Sonidos en objetos que se destruyen (pronto)
+ - 048 - Sonidos en objetos que se destruyen (04:58) https://youtu.be/nkmziOe_Hck
 
+ 
 
 ## Bloque 4: Un juego 2D en primera persona
 
- - 049 - Un juego en primera persona: el "FPS controller" (pronto)
- - 050 - Assets predefinidos para crear un nivel (pronto)
- - 051 - Texturas para los materiales (pronto)
- - 052 - Fricción en materiales 3D (pronto)
- - 053 - Creando un terreno irregular (pronto)
+ - 049 - Un juego en primera persona: el "FPS controller" (10:10) https://youtu.be/4igynoChaCs
+
+ - 050 - Assets predefinidos para crear un nivel (05:59) https://youtu.be/R1zR1OGP9Xo
+
+ - 051 - Texturas para los materiales (06:59) https://youtu.be/rGLCwnPBfF0
+
+ - 052 - Fricción en materiales 3D (02:55) https://youtu.be/JeUCkEJg8Nc
+
+ - 053 - Creando un terreno irregular (10:43) https://youtu.be/QHNWTgyxgvc
+
  - 054 - Árboles y hierba (pronto)
  - 055 - Añadiendo un arma (pronto)
  - 056 - Enemigos móviles que se pueden destruir (pronto)
@@ -125,3 +131,4 @@ Contenido disponible hasta ahora:
  - 060 - Textos más vistosos: Text Mesh Pro (pronto)
  - 061 - Guardando la configuración (pronto)
 
+ 
