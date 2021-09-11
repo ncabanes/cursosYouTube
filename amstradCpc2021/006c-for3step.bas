@@ -1,0 +1,3 @@
+10 FOR i = 1 TO 10 STEP 2
+20 PRINT i
+30 NEXT i
