@@ -1,0 +1,4 @@
+10 CLS
+20 PRINT"Hola"
+30 PRINT "y"
+40 PRINT"adios"
