@@ -1,0 +1,2 @@
+10 INPUT x
+20 IF x < 0 THEN GOTO 10
