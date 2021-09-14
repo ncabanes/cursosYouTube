@@ -17,7 +17,12 @@ Contenido disponible hasta ahora:
  - BASIC de Amstrad CPC 011 - Contacto con los gráficos https://youtu.be/GAuQUYdIpno
  - BASIC de Amstrad CPC 012 - Cadenas de texto https://youtu.be/cuRXdDZdN60
  - BASIC de Amstrad CPC 013 - El temible GOTO https://youtu.be/FQMPUb0uP-s
-
+ - BASIC de Amstrad CPC 014 - Manejo de teclado y joystick https://youtu.be/X-TjsUTEyEU
+ - BASIC de Amstrad CPC 015 - Contacto con los arrays https://youtu.be/ycemPcZiCVU
+ - BASIC de Amstrad CPC 016 - Arrays bidimensionales https://youtu.be/soOJ1Quf758
+ - BASIC de Amstrad CPC 017 - WHILE ... WEND https://youtu.be/_X30k1l6YRg
+ - BASIC de Amstrad CPC 018 - Definición de caracteres https://youtu.be/oWQXmcNdsUs
+ - BASIC de Amstrad CPC 019 - Edición (algo más) avanzada de programas https://youtu.be/ssKmsfTgZV4
 
 Lista de reproducción completa:
 https://www.youtube.com/playlist?list=PL0bfr51v6JJFviPWbO0YOkFiDs1Gf5Zyt
