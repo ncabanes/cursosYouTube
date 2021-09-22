@@ -122,13 +122,20 @@ Contenido disponible hasta ahora:
 
  - 053 - Creando un terreno irregular (10:43) https://youtu.be/QHNWTgyxgvc
 
- - 054 - Árboles y hierba (pronto)
- - 055 - Añadiendo un arma (pronto)
- - 056 - Enemigos móviles que se pueden destruir (pronto)
- - 057 - Iluminación (pronto)
- - 058 - Búsqueda de caminos (pronto)
- - 059 - FixedUpdate (pronto)
- - 060 - Textos más vistosos: Text Mesh Pro (pronto)
- - 061 - Guardando la configuración (pronto)
+ - 053 - Creando un terreno irregular (10:43) https://youtu.be/QHNWTgyxgvc
+
+ - 054 - Árboles y hierba (05:47) https://youtu.be/x_mVvHh6MmM
+
+ - 055 - Añadiendo un arma (10:07) https://youtu.be/77HuDRtbSS4
+
+ - 056 - Enemigos móviles que se pueden destruir (13:44) https://youtu.be/TpTJnoR-aGI
+
+ - 057 - Iluminación (04:11) https://youtu.be/3EDaAWjf2L4
+
+ - 058 - Búsqueda de caminos (06:55) https://youtu.be/7dOVBxWqwsA
+
+ - 059 - Textos más vistosos: Text Mesh Pro (07:02) https://youtu.be/myMUA_YdzQ8
+
+ - 060 - FixedUpdate. Guardando la configuración (03:50) https://youtu.be/-s-RJ1LY57c
 
  
