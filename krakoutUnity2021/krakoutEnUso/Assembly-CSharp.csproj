@@ -54,8 +54,10 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\Bate.cs" />
-    <Compile Include="Assets\Scripts\Enemigo.cs" />
     <Compile Include="Assets\Scripts\Pelota.cs" />
+    <Compile Include="Assets\Scripts\Enemigo.cs" />
+    <Compile Include="Assets\Scripts\Ladrillo.cs" />
+    <Compile Include="Assets\Scripts\HuecoDerecha.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
