@@ -57,9 +57,9 @@
     <Compile Include="Assets\Scripts\Ladrillo.cs" />
     <Compile Include="Assets\Scripts\Pelota.cs" />
     <Compile Include="Assets\Scripts\Enemigo.cs" />
-    <Compile Include="Assets\Scripts\HuecoDerecha.cs" />
-    <Compile Include="Assets\Scripts\GameController.cs" />
     <Compile Include="Assets\Scripts\BotonJugar.cs" />
+    <Compile Include="Assets\Scripts\GameController.cs" />
+    <Compile Include="Assets\Scripts\SalidaDerecha.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

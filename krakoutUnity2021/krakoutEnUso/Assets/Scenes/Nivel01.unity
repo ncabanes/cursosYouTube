@@ -206,7 +206,7 @@ GameObject:
   - component: {fileID: 310673968}
   - component: {fileID: 310673970}
   m_Layer: 0
-  m_Name: HuecoDerecha
+  m_Name: SalidaDerecha
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -491,6 +491,7 @@ GameObject:
   - component: {fileID: 769992930}
   - component: {fileID: 769992929}
   - component: {fileID: 769992931}
+  - component: {fileID: 769992932}
   m_Layer: 0
   m_Name: Bate
   m_TagString: Untagged
@@ -558,7 +559,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 769992928}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 4.76, y: -0.7, z: 0}
+  m_LocalPosition: {x: 4.76, y: -0.3, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -576,6 +577,22 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6603c720ca6d06643b0944de2db216bf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!70 &769992932
+CapsuleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 769992928}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_Size: {x: 0.32, y: 0.64}
+  m_Direction: 0
 --- !u!1 &808614194
 GameObject:
   m_ObjectHideFlags: 0
@@ -766,7 +783,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 678993306319810823, guid: 003b8485f36657c429a5b8851923f96b, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 1.25
+      value: -0.65
       objectReference: {fileID: 0}
     - target: {fileID: 678993306319810823, guid: 003b8485f36657c429a5b8851923f96b, type: 3}
       propertyPath: m_LocalPosition.y
@@ -832,7 +849,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 678993306319810823, guid: 003b8485f36657c429a5b8851923f96b, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 2
+      value: 0.100000024
       objectReference: {fileID: 0}
     - target: {fileID: 678993306319810823, guid: 003b8485f36657c429a5b8851923f96b, type: 3}
       propertyPath: m_LocalPosition.y
@@ -898,7 +915,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 678993306319810823, guid: 003b8485f36657c429a5b8851923f96b, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 2
+      value: 0.100000024
       objectReference: {fileID: 0}
     - target: {fileID: 678993306319810823, guid: 003b8485f36657c429a5b8851923f96b, type: 3}
       propertyPath: m_LocalPosition.y
@@ -1071,7 +1088,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1528563325}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 3.86, y: 0, z: 0}
+  m_LocalPosition: {x: 3.63, y: -1.17, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -1093,7 +1110,7 @@ Rigidbody2D:
   m_LinearDrag: 0
   m_AngularDrag: 0.05
   m_GravityScale: 0
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 6200000, guid: 60b32fe164293784e88385201b796607, type: 2}
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
@@ -1436,7 +1453,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 678993306319810823, guid: 003b8485f36657c429a5b8851923f96b, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 2
+      value: 0.1
       objectReference: {fileID: 0}
     - target: {fileID: 678993306319810823, guid: 003b8485f36657c429a5b8851923f96b, type: 3}
       propertyPath: m_LocalPosition.y
@@ -1497,7 +1514,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 678993306319810823, guid: 003b8485f36657c429a5b8851923f96b, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 1.25
+      value: -0.65
       objectReference: {fileID: 0}
     - target: {fileID: 678993306319810823, guid: 003b8485f36657c429a5b8851923f96b, type: 3}
       propertyPath: m_LocalPosition.y

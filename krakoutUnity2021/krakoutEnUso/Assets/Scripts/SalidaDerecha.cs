@@ -2,19 +2,12 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Pelota : MonoBehaviour
+public class SalidaDerecha : MonoBehaviour
 {
     // Start is called before the first frame update
     void Start()
     {
-        Recolocar();
-    }
-
-    private void Recolocar()
-    {
-        transform.position = new Vector2(4.3f, -0.5f);
-        GetComponent<Rigidbody2D>().velocity =
-                    new Vector2(-3, 2);
+        
     }
 
     // Update is called once per frame
@@ -22,4 +15,11 @@ public class Pelota : MonoBehaviour
     {
         
     }
+
+    void OnTriggerEnter2D(Collider2D collision)
+    {
+        FindObjectOfType<GameController>().SendMessage("PerderVida");
+        FindObjectOfType<Pelota>().SendMessage("Recolocar");
+    }
+
 }
