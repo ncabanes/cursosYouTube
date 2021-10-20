@@ -10,16 +10,16 @@ public class Pelota : MonoBehaviour
         Recolocar();
     }
 
-    private void Recolocar()
-    {
-        transform.position = new Vector2(4.3f, -0.5f);
-        GetComponent<Rigidbody2D>().velocity =
-                    new Vector2(-3, 2);
-    }
-
     // Update is called once per frame
     void Update()
     {
         
+    }
+
+    public void Recolocar()
+    {
+        transform.position = new Vector2(4.3f, -0.5f);
+        GetComponent<Rigidbody2D>().velocity =
+            new Vector2(-3, 2);
     }
 }

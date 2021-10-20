@@ -16,10 +16,9 @@ public class SalidaDerecha : MonoBehaviour
         
     }
 
-    void OnTriggerEnter2D(Collider2D collision)
+    private void OnTriggerEnter2D(Collider2D collision)
     {
-        FindObjectOfType<GameController>().SendMessage("PerderVida");
         FindObjectOfType<Pelota>().SendMessage("Recolocar");
+        FindObjectOfType<GameController>().SendMessage("PerderVida");
     }
-
 }
