@@ -2,14 +2,16 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Ladrillo : MonoBehaviour
+public class GameController : MonoBehaviour
 {
-    [SerializeField] GameObject juego;
+
+    int puntos;
+    [SerializeField] UnityEngine.UI.Text textoPuntos;
 
     // Start is called before the first frame update
     void Start()
     {
-        
+        puntos = 0;
     }
 
     // Update is called once per frame
@@ -18,9 +20,9 @@ public class Ladrillo : MonoBehaviour
         
     }
 
-    private void OnCollisionEnter2D(Collision2D collision)
+    public void IncrementarPuntos(int cantidad)
     {
-        juego.SendMessage("IncrementarPuntos", 10);
-        Destroy(gameObject);
+        puntos += cantidad;
+        textoPuntos.text = "Puntos\n" + puntos;
     }
 }

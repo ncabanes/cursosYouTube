@@ -8,7 +8,7 @@ public class Pelota : MonoBehaviour
     void Start()
     {
         GetComponent<Rigidbody2D>().velocity =
-            new Vector2(4, 2);
+            new Vector2(-4, 2);
     }
 
     // Update is called once per frame

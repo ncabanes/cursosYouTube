@@ -1,11 +1,10 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
-public class Ladrillo : MonoBehaviour
+public class BotonJugar : MonoBehaviour
 {
-    [SerializeField] GameObject juego;
-
     // Start is called before the first frame update
     void Start()
     {
@@ -18,9 +17,8 @@ public class Ladrillo : MonoBehaviour
         
     }
 
-    private void OnCollisionEnter2D(Collision2D collision)
+    public void LanzarJuego()
     {
-        juego.SendMessage("IncrementarPuntos", 10);
-        Destroy(gameObject);
+        SceneManager.LoadScene("Nivel01");
     }
 }
