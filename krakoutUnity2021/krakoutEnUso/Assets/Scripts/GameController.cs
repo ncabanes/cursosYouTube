@@ -25,6 +25,12 @@ public class GameController : MonoBehaviour
         
     }
 
+    public void IncrementarPuntosEnemigo(int cantidad)
+    {
+        puntos += cantidad;
+        ActualizarMarcador();
+    }
+
     public void IncrementarPuntos(int cantidad)
     {
         puntos += cantidad;

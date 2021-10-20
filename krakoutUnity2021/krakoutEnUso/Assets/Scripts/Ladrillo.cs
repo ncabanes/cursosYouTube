@@ -20,7 +20,10 @@ public class Ladrillo : MonoBehaviour
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        juego.SendMessage("IncrementarPuntos", 10);
-        Destroy(gameObject);
+        if (collision.gameObject.tag == "Pelota")
+        {
+            juego.SendMessage("IncrementarPuntos", 10);
+            Destroy(gameObject);
+        }
     }
 }
