@@ -10,11 +10,11 @@ Contenido disponible:
  - 03 - Contacto con las variables (6:00) https://youtu.be/L9k6cDEefD4
  - 04 - Instalación y uso de Free Pascal (7:26) https://youtu.be/jB2dCogJxQY
  - 05 - Condiciones básicas: if (04:27) https://youtu.be/bfckKJ5ksGk
+ - 06 - Condiciones (2): else. Sentencias compuestas y formato libre (11:21) https://youtu.be/pr8bzR_8X8k
  
 Próximos apartados previstos (ritmo esperable: uno cada 2 días)
 
- - 06 - Condiciones (2): else. Sentencias compuestas y formato libre (previsto para 29-Nov-2021)
- - 07 - Condiciones (3): case. Comentarios
+ - 07 - Condiciones (3): case. Comentarios (previsto para 01-Dic-2021)
  - 08 - Instalación y uso básico de Lazarus
  - 09 - Asignación de valores. Incremento.
  - 10 - Compactar declaraciones y escrituras
