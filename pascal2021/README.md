@@ -13,10 +13,10 @@ Contenido disponible:
  - 06 - Condiciones (2): else. Sentencias compuestas y formato libre (11:21) https://youtu.be/pr8bzR_8X8k
  - 07 - Condiciones (3): case. Comentarios (09:27) https://youtu.be/T_5kDKJXCAU
  - 08 - Instalación y uso básico de Lazarus (08:16) https://youtu.be/vu8w-NUFlWM
+ - 09 - Asignación de valores. Incremento (03:55) https://youtu.be/5kE5NitYfSQ
 
 Próximos apartados previstos (ritmo esperable: uno cada 2 días)
 
- - 09 - Asignación de valores. Incremento  (previsto para 05-Dic-2021)
  - 10 - Compactar declaraciones y escrituras (previsto para 07-Dic-2021)
  - 11 - Bucles (1): mientras. Contadores (previsto para 09-Dic-2021)
  - 12 - Bucles (2): Repetir... hasta (previsto para 11-Dic-2021)
@@ -29,10 +29,10 @@ Próximos apartados previstos (ritmo esperable: uno cada 2 días)
  - 19 - Datos "booleanos"  (previsto para 26-Dic-2021)
  - 20 - Contacto con los arrays  (previsto para 28-Dic-2021)
  - 21 - Operaciones habituales con arrays  (previsto para 30-Dic-2021)
- - 22 - Contacto con las cadenas de texto  (previsto para 02-Ene-20212
- - 23 - Procedimientos y funciones (previsto para 04-Ene-20212
- - 24 - Depuración (previsto para 07-Ene-20212
- - 25 - Ficheros de texto (previsto para 09-Ene-20212
+ - 22 - Contacto con las cadenas de texto  (previsto para 02-Ene-2022)
+ - 23 - Procedimientos y funciones (previsto para 04-Ene-2022)
+ - 24 - Depuración (previsto para 07-Ene-2022)
+ - 25 - Ficheros de texto (previsto para 09-Ene-2022)
 
 Otros apartados posibles, si hay interés en el curso (el orden puede cambiar):
 
