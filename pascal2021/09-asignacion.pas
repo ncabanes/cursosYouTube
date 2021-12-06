@@ -1,4 +1,4 @@
-(* Ejemplo de declaración de variables)
+(* Ejemplo de declaración de variables *)
 
 program millasAMetros;
 
