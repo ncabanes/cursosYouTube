@@ -15,10 +15,10 @@ Contenido disponible:
  - 08 - Instalación y uso básico de Lazarus (08:16) https://youtu.be/vu8w-NUFlWM
  - 09 - Asignación de valores. Incremento (03:55) https://youtu.be/5kE5NitYfSQ
  - 10 - Compactar declaraciones y escrituras (03:53) https://youtu.be/h1jKzTeFmJ4
+ - 11 - Bucles (1): Mientras (while). Contadores (10:24) https://youtu.be/0zXeStG4s6I
 
 Próximos apartados previstos (ritmo esperable: uno cada 2 días, excepto festivos)
 
- - 11 - Bucles (1): Mientras (while). Contadores (previsto para 09-Dic-2021)
  - 12 - Bucles (2): Repetir... hasta (repeat - until) (previsto para 11-Dic-2021)
  - 13 - Bucles (3): "for" (previsto para 13-Dic-2021)
  - 14 - Bucles (4): Bucles anidados (previsto para 15-Dic-2021)
