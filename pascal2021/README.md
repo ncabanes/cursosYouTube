@@ -16,11 +16,11 @@ Contenido disponible:
  - 09 - Asignación de valores. Incremento (03:55) https://youtu.be/5kE5NitYfSQ
  - 10 - Compactar declaraciones y escrituras (03:53) https://youtu.be/h1jKzTeFmJ4
  - 11 - Bucles (1): Mientras (while). Contadores (10:24) https://youtu.be/0zXeStG4s6I
+ - 12 - Bucles (2): Repetir... hasta (repeat - until) (08:18) https://youtu.be/EiwQcKuQN1I
+ - 13 - Bucles (3): "for" (08:08) https://youtu.be/We9zsx5Y3Ec
 
 Próximos apartados previstos (ritmo esperable: uno cada 2 días, excepto festivos)
 
- - 12 - Bucles (2): Repetir... hasta (repeat - until) (previsto para 11-Dic-2021)
- - 13 - Bucles (3): "for" (previsto para 13-Dic-2021)
  - 14 - Bucles (4): Bucles anidados (previsto para 15-Dic-2021)
  - 15 - Bucles (5): Bucles sin fin (previsto para 17-Dic-2021)
  - 16 - Datos numéricos enteros y reales (previsto para 19-Dic-2021)
@@ -30,23 +30,25 @@ Próximos apartados previstos (ritmo esperable: uno cada 2 días, excepto festiv
  - 20 - Contacto con los arrays (previsto para 28-Dic-2021)
  - 21 - Constantes (previsto para 30-Dic-2021)
  - 22 - Operaciones habituales con arrays (previsto para 02-Ene-2022)
- - 23 - Contacto con las cadenas de texto (previsto para 04-Ene-2022)
- - 24 - Procedimientos y funciones (previsto para 07-Ene-2022)
- - 25 - Depuración (previsto para 09-Ene-2022)
- - 26 - Ficheros de texto (previsto para 11-Ene-2022)
+ - 23 - Arrays bidimensionales (previsto para 04-Ene-2022)
+ - 24 - Contacto con las cadenas de texto (previsto para 07-Ene-2022)
+ - 25 - Procedimientos y funciones (previsto para 09-Ene-2022)
+ - 26 - Depuración (previsto para 11-Ene-2022)
+ - 27 - Ficheros de texto (previsto para 13-Ene-2022)
 
 Otros apartados posibles, si hay interés en el curso (el orden puede cambiar):
 
+* Consola mejorada: la unidad CRT
+* Gráficos sencillos: la unidad Graph
+* Creación y uso de unidades (units)
 * Registros (records)
+* Definición de tipos
+* Ficheros con tipo
 * Subrangos y datos enumerados
 * Conjuntos
 * Constantes. Variables con valor inicial
-* Definición de tipos
-* Ficheros con tipo
 * Ficheros binarios
-* Creación y uso de unidades (units)
-* Consola mejorada: la unidad CRT
-* Gráficos sencillos: la unidad Graph
 * Contacto con la memoria dinámica: una lista enlazada simple
 * Nociones de programación orientada a objetos
 * Contacto con los entornos visuales: formularios básicos con Lazarus
+* Herramientas comerciales: Contacto con Delphi Community Edition
