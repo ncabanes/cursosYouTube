@@ -18,11 +18,11 @@ Contenido disponible:
  - 11 - Bucles (1): Mientras (while). Contadores (10:24) https://youtu.be/0zXeStG4s6I
  - 12 - Bucles (2): Repetir... hasta (repeat - until) (08:18) https://youtu.be/EiwQcKuQN1I
  - 13 - Bucles (3): "for" (08:08) https://youtu.be/We9zsx5Y3Ec
+ - 14 - Bucles (4): Bucles anidados (12:35) https://youtu.be/80E6si41mUg
+ - 15 - Bucles (5): Bucles sin fin (05:27) https://youtu.be/py-SoT3LcH8
 
 Próximos apartados previstos (ritmo esperable: uno cada 2 días, excepto festivos)
 
- - 14 - Bucles (4): Bucles anidados (previsto para 15-Dic-2021)
- - 15 - Bucles (5): Bucles sin fin (previsto para 17-Dic-2021)
  - 16 - Datos numéricos enteros y reales (previsto para 19-Dic-2021)
  - 17 - Funciones matemáticas (previsto para 21-Dic-2021)
  - 18 - Tipo de datos carácter (previsto para 23-Dic-2021)
