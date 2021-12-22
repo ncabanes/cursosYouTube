@@ -21,10 +21,10 @@ Contenido disponible:
  - 14 - Bucles (4): Bucles anidados (12:35) https://youtu.be/80E6si41mUg
  - 15 - Bucles (5): Bucles sin fin (05:27) https://youtu.be/py-SoT3LcH8
  - 16 - Datos numéricos enteros y reales (13:32) https://youtu.be/wPCNcyTGBz4
+ - 17 - Funciones matemáticas (09:55) https://youtu.be/X_uhu1GaIy4
 
 Próximos apartados previstos (ritmo esperable: uno cada 2 días, excepto festivos)
 
- - 17 - Funciones matemáticas (previsto para 21-Dic-2021)
  - 18 - Tipo de datos carácter (previsto para 23-Dic-2021)
  - 19 - Datos "booleanos" (previsto para 26-Dic-2021)
  - 20 - Contacto con los arrays (previsto para 28-Dic-2021)
