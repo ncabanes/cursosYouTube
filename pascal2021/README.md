@@ -23,11 +23,11 @@ Contenido disponible:
  - 16 - Datos numéricos enteros y reales (13:32) https://youtu.be/wPCNcyTGBz4
  - 17 - Funciones matemáticas (09:55) https://youtu.be/X_uhu1GaIy4
  - 18 - Tipo de datos carácter (06:44) https://youtu.be/AELkYNWEf00
+ - 19 - Datos "booleanos" (08:21) https://youtu.be/ewBIsdaMoXg
+ - 20 - Contacto con los arrays (09:32) https://youtu.be/0GAtsp4g_uE
 
 Próximos apartados previstos (ritmo esperable: uno cada 2 días, excepto festivos)
 
- - 19 - Datos "booleanos" (previsto para 26-Dic-2021)
- - 20 - Contacto con los arrays (previsto para 28-Dic-2021)
  - 21 - Constantes (previsto para 30-Dic-2021)
  - 22 - Operaciones habituales con arrays (previsto para 02-Ene-2022)
  - 23 - Arrays bidimensionales (previsto para 04-Ene-2022)
