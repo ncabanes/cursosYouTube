@@ -27,10 +27,10 @@ Contenido disponible:
  - 20 - Contacto con los arrays (09:32) https://youtu.be/0GAtsp4g_uE
  - 21 - Constantes (02:47) https://youtu.be/iPt4Ew9lKVM
  - 22 - Operaciones habituales con arrays (12:47) https://youtu.be/3pq47-PX7-g
- 
+ - 23 - Arrays bidimensionales (06:54) https://youtu.be/CJs10Jhxb24
+
 Próximos apartados previstos (ritmo esperable: uno cada 2 días, excepto festivos)
 
- - 23 - Arrays bidimensionales (previsto para 04-Ene-2022)
  - 24 - Contacto con las cadenas de texto (previsto para 07-Ene-2022)
  - 25 - Procedimientos y funciones (previsto para 09-Ene-2022)
  - 26 - Depuración (previsto para 11-Ene-2022)
