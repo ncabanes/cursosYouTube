@@ -29,12 +29,9 @@ Contenido disponible:
  - 22 - Operaciones habituales con arrays (12:47) https://youtu.be/3pq47-PX7-g
  - 23 - Arrays bidimensionales (06:54) https://youtu.be/CJs10Jhxb24
  - 24 - Contacto con las cadenas de texto (12:43) https://youtu.be/JKdcx4FICUE
-
-Próximos apartados previstos (ritmo esperable: uno cada 2 días, excepto festivos)
-
- - 25 - Procedimientos y funciones (previsto para 09-Ene-2022)
- - 26 - Depuración (previsto para 11-Ene-2022)
- - 27 - Ficheros de texto (previsto para 13-Ene-2022)
+ - 25 - Procedimientos y funciones (16:28) https://youtu.be/WSizojZO90w
+ - 26 - Depuración (09:06) https://youtu.be/-pOsNDELXhw
+ - 27 - Ficheros de texto (11:12) https://youtu.be/bki6e3I0rr0
 
 Otros apartados posibles, si hay interés en el curso (el orden puede cambiar):
 
