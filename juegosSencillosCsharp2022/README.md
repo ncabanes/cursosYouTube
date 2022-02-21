@@ -16,5 +16,6 @@ Contenido disponible hasta ahora:
  - 04 - Tres en raya en consola mejorada (22:21) https://youtu.be/jytUJBLqL3A
  - 05a - Mazmorras en consola 1 (12:00) https://youtu.be/4UO8jnsp9UI
  - 05b - Mazmorras en consola 2 (09:18) https://youtu.be/3aWzlT2_2RM
+ - 05c - Mazmorras en consola 3 (21:50) https://youtu.be/RjBBzT8tT6U
 
  
