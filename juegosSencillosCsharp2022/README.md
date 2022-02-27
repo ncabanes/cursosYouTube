@@ -18,4 +18,4 @@ Contenido disponible hasta ahora:
  - 05b - Mazmorras en consola 2 (09:18) https://youtu.be/3aWzlT2_2RM
  - 05c - Mazmorras en consola 3 (21:50) https://youtu.be/RjBBzT8tT6U
  - 05d - Mazmorras en consola 4 (14:15) https://youtu.be/VlPbn04cMzo
- 
+ - 06a - Esqueleto en modo gráfico con SDL y Tao.Sdl (23:17) https://youtu.be/BmjaPOZdnfs
