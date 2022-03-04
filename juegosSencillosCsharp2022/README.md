@@ -19,3 +19,5 @@ Contenido disponible hasta ahora:
  - 05c - Mazmorras en consola 3 (21:50) https://youtu.be/RjBBzT8tT6U
  - 05d - Mazmorras en consola 4 (14:15) https://youtu.be/VlPbn04cMzo
  - 06a - Esqueleto en modo gráfico con SDL y Tao.Sdl (23:17) https://youtu.be/BmjaPOZdnfs
+ - 06b - Clases Hardware y Sprite (13:17) https://youtu.be/YdHzkpusDV0
+ - 06c - Items, colisiones y puntos (14:28) https://youtu.be/r7eRsuc2aZk
