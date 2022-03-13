@@ -8,13 +8,13 @@ En el fichero ".cs" tendrás también el enunciado del ejercicio, y en los enlac
 
 ## Funciones (y recursividad)
 
-Valor numérico de una cadena (15:42) https://youtu.be/a1n0zTi8Fos
+- Valor numérico de una cadena (15:42) https://youtu.be/a1n0zTi8Fos
 
 ## Clases
 
-Clases Mueble y Sofá (13:10) https://youtu.be/14C9UHGDMZI
+- Clases Mueble y Sofá (13:10) https://youtu.be/14C9UHGDMZI
 
 ## Estructuras dinámicas
 
-Cola usando una lista (12:06) https://youtu.be/VYtZu2PzMRk
-Clase y subclases + lista + menú (20:30) https://youtu.be/PAweFzbqa94
+- Cola usando una lista (12:06) https://youtu.be/VYtZu2PzMRk
+- Clase y subclases + lista + menú (20:30) https://youtu.be/PAweFzbqa94
