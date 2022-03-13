@@ -17,4 +17,4 @@ Clases Mueble y Sofá (13:10) https://youtu.be/14C9UHGDMZI
 ## Estructuras dinámicas
 
 Cola usando una lista (12:06) https://youtu.be/VYtZu2PzMRk
-
+Clase y subclases + lista + menú (20:30) https://youtu.be/PAweFzbqa94
