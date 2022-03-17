@@ -21,3 +21,6 @@ Contenido disponible hasta ahora:
  - 06a - Esqueleto en modo gráfico con SDL y Tao.Sdl (23:17) https://youtu.be/BmjaPOZdnfs
  - 06b - Clases Hardware y Sprite (13:17) https://youtu.be/YdHzkpusDV0
  - 06c - Items, colisiones y puntos (14:28) https://youtu.be/r7eRsuc2aZk
+ - 06d - Mapa de tiles para el fondo (20:59) https://youtu.be/0hYb2hTetCY
+ - 06e - Animaciones, sonido e intro (16:45) https://youtu.be/14C9UHGDMZI
+ - 06f - Varios niveles (13:12) https://youtu.be/yoW2D6smgCc
