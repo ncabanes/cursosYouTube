@@ -24,3 +24,11 @@ Contenido disponible hasta ahora:
  - 06d - Mapa de tiles para el fondo (20:59) https://youtu.be/0hYb2hTetCY
  - 06e - Animaciones, sonido e intro (16:45) https://youtu.be/14C9UHGDMZI
  - 06f - Varios niveles (13:12) https://youtu.be/yoW2D6smgCc
+ - 07a - Matamarcianos, esqueleto básico (12:58) https://youtu.be/DO7aGAWW2YE
+ - 07b - Clases y bucle de juego para el matamarcianos (16:32) https://youtu.be/24mvldEFpW0
+ - Inciso: Obtener imágenes (capturar + recortar + transparencia) (14:06) https://youtu.be/9dVwL7PuCz4
+ - 07c - Bloque de enemigos en el matamarcianos (14:47) https://youtu.be/BqwUX2SIUP8
+ - 07d - Disparos de nuestra nave (18:14) https://youtu.be/qzkSkVqwEsM
+ - 07e - Disparos de enemigos (13:21) https://youtu.be/nkXsunJsAFo
+ - 07f - Puntos, vidas y animaciones (13:46) https://youtu.be/4pNBLvAAoZ4
+ 
