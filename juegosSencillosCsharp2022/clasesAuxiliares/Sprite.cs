@@ -146,6 +146,21 @@ class Sprite
             return false;
     }
 
+    public bool ColisionaCon(int xIni, int yIni, int xFin, int yFin)
+    {
+        // No se debe chocar con un elemento oculto      
+        if (activo == false)
+            return false;
+        // Ahora ya compruebo coordenadas
+        if ((x < xFin)
+            && (x + ancho > xIni)
+            && (y < yFin)
+            && (y + alto > yIni))
+            return true;
+        else
+            return false;
+    }
+
     /// Prepara el siguiente fotograma, para animar el movimiento de
     /// un personaje
     public void SiguienteFotograma()
