@@ -29,6 +29,11 @@ class Sprite
     bool contieneImagen;        // Si no contiene imagen, no se podra dibujar
     bool contieneSecuencia;     // La alternativa: imagenes multiples
 
+    int fotogramasRestantes;
+    int framesPorFotograma = 10;
+
+
+
     // ----- Operaciones -----
 
     /// Constructor: Carga la imagen que representara a este elemento grafico
@@ -45,6 +50,7 @@ class Sprite
         // Valores por defecto para ancho y alto
         ancho = 32;
         alto = 32;
+        fotogramasRestantes = framesPorFotograma;
     }
 
     /// Mueve el elemento grafico a otra posicion
@@ -165,6 +171,12 @@ class Sprite
     /// un personaje
     public void SiguienteFotograma()
     {
+        fotogramasRestantes--;
+        if (fotogramasRestantes > 0)
+            return;
+
+        fotogramasRestantes = framesPorFotograma;
+
         if (fotogramaActual < secuencia[direccion].Length - 1)
             fotogramaActual++;
         else
@@ -206,4 +218,10 @@ class Sprite
     {
         activo = a;
     }
+
+    public void SetFramesPorFotograma(int frames)
+    {
+        framesPorFotograma = frames;
+    }
+
 }
