@@ -31,6 +31,11 @@ class Hardware
         Sdl.SDL_SetClipRect(pantallaOculta, ref rect2);
 
         SdlTtf.TTF_Init();
+
+        if (SdlMixer.Mix_OpenAudio(22050,
+          unchecked(Sdl.AUDIO_S16LSB), 2, 1024) == -1)
+            ErrorFatal("No se ha podido inicializar el Sonido");
+
     }
 
     /// Dibuja una imagen en pantalla oculta, en ciertas coordenadas
@@ -189,3 +194,4 @@ class Hardware
     public static int TECLA_DER = Sdl.SDLK_RIGHT;
     public static int TECLA_IZQ = Sdl.SDLK_LEFT;
 }
+
