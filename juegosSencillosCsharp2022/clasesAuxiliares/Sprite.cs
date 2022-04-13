@@ -171,7 +171,7 @@ class Sprite
             fotogramaActual = 0;
     }
 
-    public void Mover()
+    public virtual void Mover()
     {
         // Para ser redefinido en las clases "hijas"
     }
