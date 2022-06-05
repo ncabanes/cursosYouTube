@@ -32,10 +32,10 @@ Contenido disponible:
  - 25 - Procedimientos y funciones (16:28) https://youtu.be/WSizojZO90w
  - 26 - Depuración (09:06) https://youtu.be/-pOsNDELXhw
  - 27 - Ficheros de texto (11:12) https://youtu.be/bki6e3I0rr0
+ - 28 - Consola mejorada (la "unit" crt) (06:39) https://youtu.be/BTSGvprQDhI
 
 Otros apartados posibles, si hay interés en el curso (el orden puede cambiar):
 
-* Consola mejorada: la unidad CRT
 * Gráficos sencillos: la unidad Graph
 * Creación y uso de unidades (units)
 * Registros (records)
