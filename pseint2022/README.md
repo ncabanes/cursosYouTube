@@ -10,3 +10,4 @@ Videos individuales:
  - 01 - ¿Por qué aprender Pseudocódigo y Pseint? (4:07) https://youtu.be/mUg7qanU2-U
  - 02 - Instalación de Pseint (en Windows) (03:42) https://youtu.be/drCNsVb7TGk
  - 03 - Escribir un texto en pantalla (08:21) https://youtu.be/X8NRMaemcUk
+ - 04 - Operaciones aritméticas (10:03) https://youtu.be/IJQjTN904NI
