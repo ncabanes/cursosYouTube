@@ -11,3 +11,4 @@ Videos individuales:
  - 02 - Instalación de Pseint (en Windows) (03:42) https://youtu.be/drCNsVb7TGk
  - 03 - Escribir un texto en pantalla (08:21) https://youtu.be/X8NRMaemcUk
  - 04 - Operaciones aritméticas (10:03) https://youtu.be/IJQjTN904NI
+ - 05 - Variables (15:33) https://youtu.be/KogawEk7q7o
