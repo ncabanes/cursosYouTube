@@ -38,19 +38,18 @@ Apartados adicionales (posteriores):
  - 28 - Consola mejorada (la "unit" crt) (06:39) https://youtu.be/BTSGvprQDhI
  - 29 - Registros (record) (18:15) https://youtu.be/D3EyZU4rxYQ
  - 30 - Contacto con Lazarus y con la POO (16:00) https://youtu.be/Fc95oHFLTgc
- 
+ - 31 - Pedir y mostrar textos con Lazarus / Delphi (16:44) https://youtu.be/DVAoqY6t-mk
 
 Otros apartados posibles, si hay interés en el curso (el orden puede cambiar):
 
-* Gráficos sencillos: la unidad Graph
-* Creación y uso de unidades (units)
 * Definición de tipos
 * Ficheros con tipo
+* Ficheros binarios
+* Gráficos sencillos: la unidad Graph
+* Creación y uso de unidades (units)
 * Subrangos y datos enumerados
 * Conjuntos
 * Constantes. Variables con valor inicial
-* Ficheros binarios
 * Contacto con la memoria dinámica: una lista enlazada simple
 * Nociones de programación orientada a objetos
-* Contacto con los entornos visuales: formularios básicos con Lazarus
 * Herramientas comerciales: Contacto con Delphi Community Edition
