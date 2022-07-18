@@ -12,3 +12,4 @@ Videos individuales:
  - 03 - Escribir un texto en pantalla (08:21) https://youtu.be/X8NRMaemcUk
  - 04 - Operaciones aritméticas (10:03) https://youtu.be/IJQjTN904NI
  - 05 - Variables (15:33) https://youtu.be/KogawEk7q7o
+ - 06 - Comprobación de condiciones con "Si" (11:53) https://youtu.be/kx_JYWlXHfI
