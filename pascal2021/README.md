@@ -40,10 +40,10 @@ Apartados adicionales (posteriores):
  - 30 - Contacto con Lazarus y con la POO (16:00) https://youtu.be/Fc95oHFLTgc
  - 31 - Pedir y mostrar textos con Lazarus / Delphi (16:44) https://youtu.be/DVAoqY6t-mk
  - 32 - Definición de tipos (04:42) https://youtu.be/zVSHMW9l740
+ - 33 - Ficheros con tipo (19:20) https://youtu.be/g08BpRYPK70
 
 Otros apartados posibles, si hay interés en el curso (el orden puede cambiar):
 
-* Ficheros con tipo
 * Ficheros binarios
 * Gráficos sencillos: la unidad Graph
 * Creación y uso de unidades (units)
