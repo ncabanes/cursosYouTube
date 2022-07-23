@@ -13,3 +13,4 @@ Videos individuales:
  - 04 - Operaciones aritméticas (10:03) https://youtu.be/IJQjTN904NI
  - 05 - Variables (15:33) https://youtu.be/KogawEk7q7o
  - 06 - Comprobación de condiciones con "Si" (11:53) https://youtu.be/kx_JYWlXHfI
+ - 07 - Comprobación de condiciones con "Segun" (09:37) https://youtu.be/NymoYGANyrM
