@@ -41,10 +41,11 @@ Apartados adicionales (posteriores):
  - 31 - Pedir y mostrar textos con Lazarus / Delphi (16:44) https://youtu.be/DVAoqY6t-mk
  - 32 - Definición de tipos (04:42) https://youtu.be/zVSHMW9l740
  - 33 - Ficheros con tipo (19:20) https://youtu.be/g08BpRYPK70
+ - 34 - Contacto con los ficheros binarios (09:11) https://youtu.be/DWo9Mlxh6KE
+
 
 Otros apartados posibles, si hay interés en el curso (el orden puede cambiar):
 
-* Ficheros binarios
 * Gráficos sencillos: la unidad Graph
 * Creación y uso de unidades (units)
 * Subrangos y datos enumerados
