@@ -42,7 +42,8 @@ Apartados adicionales (posteriores):
  - 32 - Definición de tipos (04:42) https://youtu.be/zVSHMW9l740
  - 33 - Ficheros con tipo (19:20) https://youtu.be/g08BpRYPK70
  - 34 - Contacto con los ficheros binarios (09:11) https://youtu.be/DWo9Mlxh6KE
-
+ - 35 - Ficheros binarios 2: Copiador de ficheros (08:46) https://youtu.be/Za6Q7vMTvpQ
+ 
 
 Otros apartados posibles, si hay interés en el curso (el orden puede cambiar):
 
