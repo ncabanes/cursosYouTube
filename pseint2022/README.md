@@ -15,4 +15,5 @@ Videos individuales:
  - 06 - Comprobación de condiciones con "Si" (11:53) https://youtu.be/kx_JYWlXHfI
  - 07 - Comprobación de condiciones con "Segun" (09:37) https://youtu.be/NymoYGANyrM
  - 08 - Bucles con "Mientras" (13:12) https://youtu.be/tjxGPc2W8mY
+ - 09 - Bucles con "Repetir" (05:31) https://youtu.be/R4D6vnwHDxM
 
