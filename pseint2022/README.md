@@ -19,3 +19,4 @@ Videos individuales:
  - 10 - Bucles y contadores con "Para" (10:22) https://youtu.be/0dfOUV_tXio
  - 11 - Funciones matemáticas (05:24) https://youtu.be/s9KDSsmST_M
  - 12 - Subprocesos (08:26) https://youtu.be/WrykfiS587c
+ - 13 - Parámetros en subprocesos (05:03) https://youtu.be/0dxowfe9vNI
