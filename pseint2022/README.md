@@ -20,3 +20,4 @@ Videos individuales:
  - 11 - Funciones matemáticas (05:24) https://youtu.be/s9KDSsmST_M
  - 12 - Subprocesos (08:26) https://youtu.be/WrykfiS587c
  - 13 - Parámetros en subprocesos (05:03) https://youtu.be/0dxowfe9vNI
+ - 14 - Creación de funciones (12:08) https://youtu.be/13fAJ_S7Uvw
