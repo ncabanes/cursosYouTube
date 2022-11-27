@@ -13,3 +13,5 @@ Ejercicios del curso de Bases de Datos
 003 - Datos numéricos (08:12) https://youtu.be/BwY9zFfJ1Zc
 
 004 - Contacto con los valores nulos (NULL) (06:55) https://youtu.be/JzxwBlkNMrs
+
+005 - Búsquedas sencillas en SQL (12:52) https://youtu.be/TPd_JMI-LyA
