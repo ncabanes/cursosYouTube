@@ -17,3 +17,5 @@ Ejercicios del curso de Bases de Datos
 005 - Búsquedas sencillas en SQL (12:52) https://youtu.be/TPd_JMI-LyA
 
 006 - Modificación de datos con SQL (UPDATE) (05:26) https://youtu.be/GBWS2bFAkbU
+
+007 - Borrado de datos con SQL (DELETE) (03:45) https://youtu.be/hYqjjzmMo1s
