@@ -15,3 +15,5 @@ Ejercicios del curso de Bases de Datos
 004 - Contacto con los valores nulos (NULL) (06:55) https://youtu.be/JzxwBlkNMrs
 
 005 - Búsquedas sencillas en SQL (12:52) https://youtu.be/TPd_JMI-LyA
+
+006 - Modificación de datos con SQL (UPDATE) (05:26) https://youtu.be/GBWS2bFAkbU
