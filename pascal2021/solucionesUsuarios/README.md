@@ -23,3 +23,8 @@
  - 08 (Instalación y uso básico de Lazarus). Crea un programa que pida al usuario dos números y responda cuántos de ellos son múltiplos de 5… usando Lazarus.
  
  - 09 (Asignación de valores. Incremento). Pide al usuario el lado de un cuadrado y calcula (y guarda en las correspondientes variables) la superficie de dicho cuadrado y su perímetro.
+
+ - 10 (Compactar declaraciones y escrituras). Pide al usuario el lado de un cuadrado y calcula (y guarda en las correspondientes variables) la superficie de dicho cuadrado y su perímetro. Agrupa declaraciones de variables y escrituras cuando sea posible.
+
+ - 11a (Bucles (1a): Mientras (while). Contadores). La raíz cuadrada de un número x se puede calcular con "sqrt(x)". Pide al usuario un número y muestra su raíz cuadrada, luego otro, hasta que el número introducido sea negativo. Entonces se mostrará el mensaje "No se puede hallar la raíz de un número negativo" y terminará el programa.
+ - 11b (Bucles (1b): Mientras (while). Contadores). Escribe los números pares del 2 al 10, creando un contador (con "while").
