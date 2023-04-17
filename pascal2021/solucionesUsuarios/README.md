@@ -17,3 +17,6 @@
 
  - 06 (Condiciones (2): else. Sentencias compuestas y formato libre). Crea un programa que pida dos números al usuario y diga si el primero es mayor, el segundo es mayor o son iguales
 
+ - 07a (Condiciones (3): case. Comentarios) Haz un programa que pida al usuario un número entero del 1 al 3, y escriba "Uno", "Dos", "Tres" o "Número incorrecto" según corresponda. Hazlo primero con "if" y luego con "case".
+ - 07b (Condiciones (3): case. Comentarios) Pide al usuario el número de un mes (1 al 12) y escribe su nombre en pantalla.
+
