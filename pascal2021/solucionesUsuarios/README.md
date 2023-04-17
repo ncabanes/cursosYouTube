@@ -19,4 +19,7 @@
 
  - 07a (Condiciones (3): case. Comentarios) Haz un programa que pida al usuario un número entero del 1 al 3, y escriba "Uno", "Dos", "Tres" o "Número incorrecto" según corresponda. Hazlo primero con "if" y luego con "case".
  - 07b (Condiciones (3): case. Comentarios) Pide al usuario el número de un mes (1 al 12) y escribe su nombre en pantalla.
-
+ 
+ - 08 (Instalación y uso básico de Lazarus). Crea un programa que pida al usuario dos números y responda cuántos de ellos son múltiplos de 5… usando Lazarus.
+ 
+ - 09 (Asignación de valores. Incremento). Pide al usuario el lado de un cuadrado y calcula (y guarda en las correspondientes variables) la superficie de dicho cuadrado y su perímetro.
