@@ -85,3 +85,23 @@ Ejercicios del curso de Bases de Datos
 039 - LIMIT / FETCH NEXT ROWS (06:33) https://youtu.be/BoN8R9wrRg8
 
 040 - CREATE TABLE (17:35) https://youtu.be/iFt6LGZToz4
+
+041 - ALTER TABLE (07:09) https://youtu.be/zqV6d-xliNE
+
+042 - Repaso: 40 ejercicios de SQL (27:48) https://youtu.be/tpd-7vho7_M
+
+043 - PL/SQL 01: Contacto, bloques anónimos, SELECT INTO (27:53) https://youtu.be/L9G8RdLJMAY
+
+044 - PL/SQL 02: IF, comentarios, asignaciones (10:48) https://youtu.be/DY8G6U6Yw9g
+
+045 - PL/SQL 03: Condiciones con CASE, %TYPE, %ROWTYPE (09:10) https://youtu.be/u5V760ubdgs
+
+046 - PL/SQL 04: Bucles LOOP, WHILE, FOR (13:38) https://youtu.be/VHp4cebz_3s
+
+047 - PL/SQL 05: Cursores (15:41) https://youtu.be/Ak9QVni5dtY
+
+048 - PL/SQL 06: Procedimientos y funciones (15:05) https://youtu.be/CBFIIVDSmQo
+
+049 - PL/SQL 07: Triggers (y contacto con las excepciones) (16:57) https://youtu.be/z8nAEcr-gyk
+
+050 - Diez ejercicios de repaso de PL/SQL (21:26) https://youtu.be/wInD0vzILPk
