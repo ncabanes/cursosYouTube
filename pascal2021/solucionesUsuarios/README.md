@@ -28,3 +28,7 @@
 
  - 11a (Bucles (1a): Mientras (while). Contadores). La raíz cuadrada de un número x se puede calcular con "sqrt(x)". Pide al usuario un número y muestra su raíz cuadrada, luego otro, hasta que el número introducido sea negativo. Entonces se mostrará el mensaje "No se puede hallar la raíz de un número negativo" y terminará el programa.
  - 11b (Bucles (1b): Mientras (while). Contadores). Escribe los números pares del 2 al 10, creando un contador (con "while").
+
+ - 12a (Bucles (2a): Repetir... hasta (repeat - until). Pide números positivos al usuario, y ve calculando la suma de todos ellos, usando "repeat". Termina cuando se teclee un número negativo o cero.
+ - 12b (Bucles (2b): Repetir... hasta (repeat - until). Pide al usuario su código de usuario y su contraseña (ambos números enteros), y no le permitas seguir hasta que introduzca como código "1000" y como contraseña "1234", usando "repeat".
+ - 12c (Bucles (2c): Repetir... hasta (repeat - until). Versión mejorada: sólo tres intentos.
