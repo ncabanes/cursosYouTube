@@ -32,3 +32,6 @@
  - 12a (Bucles (2a): Repetir... hasta (repeat - until). Pide números positivos al usuario, y ve calculando la suma de todos ellos, usando "repeat". Termina cuando se teclee un número negativo o cero.
  - 12b (Bucles (2b): Repetir... hasta (repeat - until). Pide al usuario su código de usuario y su contraseña (ambos números enteros), y no le permitas seguir hasta que introduzca como código "1000" y como contraseña "1234", usando "repeat".
  - 12c (Bucles (2c): Repetir... hasta (repeat - until). Versión mejorada: sólo tres intentos.
+
+ - 13a (Bucles (3a): "for"). Muestra los números del 10 al 15, cada uno en una línea.
+ - 13b (Bucles (3b): "for"). Escribe "Hola" (en una línea) y luego "Adios" (en otra línea). Esta estructura debe repetirse 4 veces.
