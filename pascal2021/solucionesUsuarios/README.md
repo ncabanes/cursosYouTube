@@ -35,3 +35,12 @@
 
  - 13a (Bucles (3a): "for"). Muestra los números del 10 al 15, cada uno en una línea.
  - 13b (Bucles (3b): "for"). Escribe "Hola" (en una línea) y luego "Adios" (en otra línea). Esta estructura debe repetirse 4 veces.
+
+ - 14 (Bucles (4): Bucles anidados). Dibuja un triángulo descendente, del tamaño indicado por el usuario, así:
+ 
+```
+****
+***
+**
+*
+```
