@@ -19,7 +19,7 @@ begin
     intentos := 1;    
     
     repeat
-        writeln('intento numero: ',int);
+        writeln('intento numero: ',intentos);
 
         writeln('ingrese el codigo de ususario para luego ingresar la clave');
         readln(cod);
