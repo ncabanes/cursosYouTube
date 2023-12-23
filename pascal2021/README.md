@@ -2,6 +2,8 @@
 
 Intro a la programación en Pascal, noviembre 2021
 
+Lista de reproducción: https://www.youtube.com/playlist?list=PL0bfr51v6JJGVLw3jppSPuEm1Dy2Irj5r
+
 Contenido disponible:
 
  - 00 - Presentación (2:44) https://youtu.be/txiXj-pwY0U
