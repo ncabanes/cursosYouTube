@@ -44,3 +44,67 @@
 **
 *
 ```
+
+ - 15 (Bucles (5): Bucles sin fin). Crea un bucle sin fin, que escriba muchas veces tu nombre en pantalla. Emplea “repeat .. until”.
+
+ - 16a (Datos numéricos enteros y reales). Pide al usuario dos estaturas en metros y muestra su media.
+
+ - 16b (Datos numéricos enteros y reales). Pide al usuario la población de 2 ciudades y muestra cuál es el mayor de los datos introducidos .
+ 
+ - 17 (Funciones matemáticas). En un triángulo rectángulo, pide al usuario la longitud de los dos catetos y calcula la longitud de la hipotenusa.
+
+ - 18 (Tipo de datos carácter). Pide al usuario una letra mayúscula (entre la A y la Z) y muestra todas las que hay entre ella y la A, descendiendo, ambas incluidas.
+
+ - 19 (Datos "booleanos"). Pide al usuario dos números enteros. Crea una variable booleana llamada “ambosPares” que será verdadera si los dos números son pares, o falsa en caso contrario.
+
+ - 20a (Contacto con los arrays - 1). Crea un programa que pida al usuario cinco números enteros, los guarde en un array y luego muestre el primero y el último.
+ 
+ - 20b (Contacto con los arrays - 2). Pide al usuario 10 números enteros, guárdalos en un array y luego muestra todos los que eran impares.
+ 
+ - 21 (Constantes). Crea variantes de tus dos ejercicios anteriores, en las que el tamaño del array sea una constante, en vez de un número prefijado. 
+
+ - 22 (Operaciones habituales con arrays). Crea un programa que pida al usuario 10 enteros largos. Luego mostrará un menú que permita:
+
+1. Ver todos los datos
+2. Buscar un cierto dato
+3. Mostrar el máximo de los datos
+4. Ordenar los datos
+5. Salir
+
+ - 23 (Arrays bidimensionales). Crea un programa que pida al usuario 2 bloques de 10 números reales, usando un array bidimensional. Luego deberás mostrar la media del primer bloque, la media del segundo y la media global.
+
+ - 24 (Contacto con las cadenas de texto). Crea un programa que te pida tu nombre y escriba un triángulo creciente, que empiece con una letra, siga con dos y vaya aumentando hasta mostrar todas las letras:
+
+```
+N
+Na
+Nac
+Nach
+Nacho
+```
+
+ - 25a (Procedimientos y funciones - 1). Crea un procedimiento llamado "DibujarRectanguloAsteriscos", que muestre en pantalla un rectángulo de asteriscos, del ancho y alto que se indiquen como parámetros. Utilízalo en un programa.
+
+ - 25b (Procedimientos y funciones - 2). Prepara una función llamada "media", que reciba dos números reales como parámetros, y devuelva como resultado su media aritmética.
+ 
+ - 26 (Depuración): Sin ejercicios propuestos.
+ 
+ - 27 (Ficheros de texto). Crea un programa que pida el nombre de un fichero. Si el fichero no existe, el programa terminará con un mensaje de error; si existe, volcará su contenido a un nuevo fichero (cuyo nombre será el original + “.sinespacios”), excepto los espacios en blanco iniciales de cada línea.
+
+ - 28 (Consola mejorada: la "unit" crt): Sin ejercicios propuestos.
+
+ - 29a (Registros - record - 1). Amplía el programa de ejemplo de la agenda, para que permita buscar los registros que contengan un cierto texto (deberás usar "pos").
+
+ - 29b (Registros - record - 2). Para que los datos no se pierdan en cada ejecución, guárdalos en fichero de texto al terminar la sesión y cárgalos al comenzar la siguiente.
+ 
+ - 30 (Contacto con Lazarus y con la POO). Crea un programa similar al del ejemplo, con al menos 4 botones para sumar, restar, multiplicar y dividir los dos números introducidos por el usuario.
+
+ - 31 (Pedir y mostrar textos con Lazarus). Crea un programa que pida dos números enteros usando diálogos y muestre su división otro diálogo. Si el segundo número es cero, deberá aparecer un aviso adecuado.
+
+ - 32 (Definición de tipos): Sin ejercicios propuestos.
+ 
+ - 33 (Ficheros con tipo). Mejora el programa de la agenda basada en ficheros con tipo, para que permita buscar qué registros contienen un cierto texto.
+
+ - 34 (Contacto con los ficheros binarios). Crea un programa que pida el nombre de un fichero y diga si parece un EXE (ejecutable de DOS y Windows) válido, comprobando si sus dos primeros bytes son M y Z.
+
+ - 35 (Ficheros binarios 2). Crea una variante que use un tamaño de bloque de 16 KB, que avise en vez de fallar si el fichero de origen no existe y que avise en vez de sobreescribir si el fichero de destino existe.
