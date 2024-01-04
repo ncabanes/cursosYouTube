@@ -10,3 +10,4 @@ Contenido disponible:
 - 001 Contacto con el lenguaje C - https://youtu.be/Q23P-qTCrMU
 - 002 Sumar dos números - https://youtu.be/_pqLqUkmdI4
 - 003 Mayor de dos números - https://youtu.be/KR2IbL-IqU4
+- 004 Elegir entre muchos valores - https://youtu.be/09lpNJC0H8o
