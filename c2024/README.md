@@ -12,3 +12,4 @@ Contenido disponible:
 - 003 Mayor de dos números (if) - https://youtu.be/KR2IbL-IqU4
 - 004 Elegir entre muchos valores (switch) - https://youtu.be/09lpNJC0H8o
 - 005 Pedir una contraseña (while) - https://youtu.be/vMPqdiNYet8
+- 006 Contar de 1 a 10 (for) - https://youtu.be/ybvxjz43kDQ
