@@ -14,3 +14,4 @@ Contenido disponible:
 - 005 Pedir una contraseña (while) - https://youtu.be/vMPqdiNYet8
 - 006 Contar de 1 a 10 (for) - https://youtu.be/ybvxjz43kDQ
 - 007 Dibujar un rectángulo (bucles anidados) - https://youtu.be/npR28YAP3B0
+- 008 El temible operador módulo (%) - https://youtu.be/SorMpf5v8Wk
