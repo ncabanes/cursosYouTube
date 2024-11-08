@@ -12,4 +12,6 @@ Contenido disponible hasta ahora:
 
  - Entrega 4: Visual Studio como editor (03:47) - https://youtu.be/saCa0ioQAuQ
 
+ - Entrega 5: Un enemigo animado (09:09) - https://youtu.be/4I9JG9WDl5o
+
 Lista de reproducción: https://www.youtube.com/watch?v=99UNGf_fCZU&list=PL0bfr51v6JJFILXI0jESdZI5SWl8y55r7
