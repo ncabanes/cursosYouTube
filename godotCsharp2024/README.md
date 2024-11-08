@@ -14,4 +14,7 @@ Contenido disponible hasta ahora:
 
  - Entrega 5: Un enemigo animado (09:09) - https://youtu.be/4I9JG9WDl5o
 
+ - Entrega 6: "Prefabs", un disparo (15:18) - https://youtu.be/mPH796STMDw
+
+
 Lista de reproducción: https://www.youtube.com/watch?v=99UNGf_fCZU&list=PL0bfr51v6JJFILXI0jESdZI5SWl8y55r7
