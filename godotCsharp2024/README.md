@@ -10,4 +10,6 @@ Contenido disponible hasta ahora:
 
  - Entrega 3: Mover la imagen desde programa (13:57) - https://youtu.be/CluLg5fYHMY
 
+ - Entrega 4: Visual Studio como editor (03:47) - https://youtu.be/saCa0ioQAuQ
+
 Lista de reproducción: https://www.youtube.com/watch?v=99UNGf_fCZU&list=PL0bfr51v6JJFILXI0jESdZI5SWl8y55r7
