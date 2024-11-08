@@ -8,5 +8,6 @@ Contenido disponible hasta ahora:
 
  - Entrega 2: Mostrar una imagen (20:12) - https://youtu.be/opWoTQE6cRI
 
+ - Entrega 3: Mover la imagen desde programa (13:57) - https://youtu.be/CluLg5fYHMY
 
 Lista de reproducción: https://www.youtube.com/watch?v=99UNGf_fCZU&list=PL0bfr51v6JJFILXI0jESdZI5SWl8y55r7
