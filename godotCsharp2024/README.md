@@ -18,5 +18,6 @@ Contenido disponible hasta ahora:
 
  - Entrega 7: Colisiones y puntos (12:20) - https://youtu.be/AarpDmggths
 
+ - Entrega 8: Explosiones (16:35) - https://youtu.be/r8tlPO32D2g
 
 Lista de reproducción: https://www.youtube.com/watch?v=99UNGf_fCZU&list=PL0bfr51v6JJFILXI0jESdZI5SWl8y55r7
