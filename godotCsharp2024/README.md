@@ -20,4 +20,6 @@ Contenido disponible hasta ahora:
 
  - Entrega 8: Explosiones (16:35) - https://youtu.be/r8tlPO32D2g
 
+ - Entrega 9: Pantalla de bienvenida y final de partida (13:50) - https://youtu.be/cafSrTOmC5g
+
 Lista de reproducción: https://www.youtube.com/watch?v=99UNGf_fCZU&list=PL0bfr51v6JJFILXI0jESdZI5SWl8y55r7
