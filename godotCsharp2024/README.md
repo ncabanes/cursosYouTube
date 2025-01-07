@@ -23,5 +23,7 @@ Contenido disponible hasta ahora:
  - Entrega 9: Pantalla de bienvenida y final de partida (13:50) - https://youtu.be/cafSrTOmC5g
 
  - Entrega 10: Disparos de enemigos (16:38) - https://youtu.be/zUrb9vWjBw4
+ 
+ - Entrega 11: Varias vidas. Fondo en movimiento (13:57) - https://youtu.be/qNSAiidATNE
 
 Lista de reproducción: https://www.youtube.com/watch?v=99UNGf_fCZU&list=PL0bfr51v6JJFILXI0jESdZI5SWl8y55r7
