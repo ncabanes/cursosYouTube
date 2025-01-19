@@ -26,4 +26,6 @@ Contenido disponible hasta ahora:
  
  - Entrega 11: Varias vidas. Fondo en movimiento (13:57) - https://youtu.be/qNSAiidATNE
 
+ - Entrega 12: Varios niveles. Sonido. Varios niveles (21:20) - https://youtu.be/B2fJYYU9qeM
+
 Lista de reproducción: https://www.youtube.com/watch?v=99UNGf_fCZU&list=PL0bfr51v6JJFILXI0jESdZI5SWl8y55r7
