@@ -1,6 +1,6 @@
 # godotCsharp2024
 
-Contacto con la programación de juegos usando Godot Engine 4 + C#, octubre y noviembre 2024
+Contacto con la programación de juegos usando Godot Engine 4 + C#, octubre 2024 a enero 2025
 
 Contenido disponible hasta ahora:
 
@@ -23,9 +23,12 @@ Contenido disponible hasta ahora:
  - Entrega 9: Pantalla de bienvenida y final de partida (13:50) - https://youtu.be/cafSrTOmC5g
 
  - Entrega 10: Disparos de enemigos (16:38) - https://youtu.be/zUrb9vWjBw4
- 
+
  - Entrega 11: Varias vidas. Fondo en movimiento (13:57) - https://youtu.be/qNSAiidATNE
 
- - Entrega 12: Varios niveles. Sonido. Varios niveles (21:20) - https://youtu.be/B2fJYYU9qeM
+ - Entrega 12: Varios niveles. Sonido (21:20) - https://youtu.be/B2fJYYU9qeM
+ 
+ - Entrega 13: Contacto con plataformas. CharacterBody2D (13:55) - https://youtu.be/CqOZAysQSSw
+
 
 Lista de reproducción: https://www.youtube.com/watch?v=99UNGf_fCZU&list=PL0bfr51v6JJFILXI0jESdZI5SWl8y55r7
