@@ -30,5 +30,7 @@ Contenido disponible hasta ahora:
  
  - Entrega 13: Contacto con plataformas. CharacterBody2D (13:55) - https://youtu.be/CqOZAysQSSw
 
+ - Entrega 14: Mapas de tiles (13:28) - https://youtu.be/_w0ED0Um9ls
+
 
 Lista de reproducción: https://www.youtube.com/watch?v=99UNGf_fCZU&list=PL0bfr51v6JJFILXI0jESdZI5SWl8y55r7
