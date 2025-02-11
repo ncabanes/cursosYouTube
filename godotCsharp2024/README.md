@@ -34,5 +34,6 @@ Contenido disponible hasta ahora:
 
  - Entrega 15: "Recogibles" en mapas de tiles (14:09) - https://youtu.be/7rNiSvGyFqM
 
+ - Entrega 16: Enemigos. Export. (13:21) - https://youtu.be/Pn468cSLcgM
 
 Lista de reproducción: https://www.youtube.com/watch?v=99UNGf_fCZU&list=PL0bfr51v6JJFILXI0jESdZI5SWl8y55r7
