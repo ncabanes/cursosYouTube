@@ -36,4 +36,6 @@ Contenido disponible hasta ahora:
 
  - Entrega 16: Enemigos. Export. (13:21) - https://youtu.be/Pn468cSLcgM
 
+ - Entrega 17: AnimationPlayer y AnimatableBody2D (12:39) - https://youtu.be/5Cl-YXoaPYQ
+
 Lista de reproducción: https://www.youtube.com/watch?v=99UNGf_fCZU&list=PL0bfr51v6JJFILXI0jESdZI5SWl8y55r7
