@@ -38,4 +38,7 @@ Contenido disponible hasta ahora:
 
  - Entrega 17: AnimationPlayer y AnimatableBody2D (12:39) - https://youtu.be/5Cl-YXoaPYQ
 
+ - Entrega 18: Camera follow, raycasts (11:39) - https://youtu.be/1tkbp3IIb-c
+
 Lista de reproducción: https://www.youtube.com/watch?v=99UNGf_fCZU&list=PL0bfr51v6JJFILXI0jESdZI5SWl8y55r7
+
