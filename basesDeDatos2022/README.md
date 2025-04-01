@@ -105,3 +105,7 @@ Ejercicios del curso de Bases de Datos
 049 - PL/SQL 07: Triggers (y contacto con las excepciones) (16:57) https://youtu.be/z8nAEcr-gyk
 
 050 - Diez ejercicios de repaso de PL/SQL (21:26) https://youtu.be/wInD0vzILPk
+
+051 - Repaso (Cuentos) 01, Una tabla (28:31) https://youtu.be/CEN2qwu3SSo
+
+052 - Repaso (Cuentos) 02, JOIN (28:57) https://youtu.be/VWpCrB1Bjbo
