@@ -111,3 +111,5 @@ Ejercicios del curso de Bases de Datos
 052 - Repaso (Cuentos) 02, JOIN (28:57) https://youtu.be/VWpCrB1Bjbo
 
 053 - Repaso (Cuentos) 03, Subconsultas, operaciones de conjuntos (15:13) https://youtu.be/qQTfwXQJT6w
+
+054 - Repaso (Cuentos) 04, Modificación de datos y de tablas (12:05) https://youtu.be/E4pH_dC6yY8
